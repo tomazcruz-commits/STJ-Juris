@@ -1,0 +1,8 @@
+requests
+pandas
+psycopg2
+sqlalchemy
+sentence-transformers
+fastapi
+uvicorn
+python-dotenv
