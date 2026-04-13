@@ -1,0 +1,137 @@
+---
+title: "Direito Previdenciario"
+category: "temas"
+created: "2026-04-08"
+updated: "2026-04-08"
+sources: 13
+related: []
+---
+
+# Direito Previdenciario
+
+## Síntese
+
+Base de conhecimento sobre Direito Previdenciario no STJ. Esta página consolida a jurisprudência e o entendimento consolidado sobre este tema.
+
+## Jurisprudência Recente
+
+Total de julgados indexados: **13**
+
+### Últimos Julgados
+
+
+#### Processo 2424474
+- **Classe**: AGRAVO EM RECURSO ESPECIAL
+- **Relator**: JOÃO OTÁVIO DE NORONHA
+- **Data**: 20260209
+- **Ementa**: DIREITO PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE
+SENTENÇA EM PREVIDÊNCIA COMPLEMENTAR. DISCUSSÃO SOBRE RESERVA
+MATEMÁTICA E CUSTEIO PRÉVIO. PRECLUSÃO E COISA JULGADA. AGRAVO EM
+RECURS...
+
+
+#### Processo 2449271
+- **Classe**: AGRAVO EM RECURSO ESPECIAL
+- **Relator**: JOÃO OTÁVIO DE NORONHA
+- **Data**: 20260209
+- **Ementa**: Direito Previdenciário. Agravo em Recurso Especial. Previdência
+Privada. Revisão de Complementação de Aposentadoria. Inclusão de
+Verbas Trabalhistas. Modulação de Efeitos. Agravo Desprovido.I.
+Caso e...
+
+
+#### Processo 2483726
+- **Classe**: AGRAVO EM RECURSO ESPECIAL
+- **Relator**: JOÃO OTÁVIO DE NORONHA
+- **Data**: 20260209
+- **Ementa**: DIREITO PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA
+COMPLEMENTAR. REAJUSTE DE SUPLEMENTAÇÃO DE APOSENTADORIA. APLICAÇÃO
+DO INPC. PRESCRIÇÃO DE FUNDO DE DIREITO. RECURSO DESPROVIDO.
+I. CASO...
+
+
+#### Processo 2844731
+- **Classe**: AGRAVO EM RECURSO ESPECIAL
+- **Relator**: RAUL ARAÚJO
+- **Data**: 20260209
+- **Ementa**: DIREITO PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA
+PRIVADA. RESGATE DE CONTRIBUIÇÕES. CORREÇÃO MONETÁRIA PLENA. SÚMULA
+289/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO
+ESPECIAL....
+
+
+#### Processo 2772217
+- **Classe**: AGRAVO EM RECURSO ESPECIAL
+- **Relator**: RAUL ARAÚJO
+- **Data**: 20260209
+- **Ementa**: DIREITO PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA.
+RESTITUIÇ ÃO DE RESERVA DE POUPANÇA. CORREÇÃO MONETÁRIA PLENA.
+SÚMULA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO
+ESPECIAL.1. A...
+
+
+#### Processo 2176175
+- **Classe**: RECURSO ESPECIAL
+- **Relator**: RAUL ARAÚJO
+- **Data**: 20260209
+- **Ementa**: DIREITO PREVIDENCIÁRIO. RECURSO ESPECIAL. PREVIDÊNCIA COMPLEMENTAR.
+REAJUSTE DE BENEFÍCIO. ADESÃO AO PLANO REG/REPLAN SALDADO. RENÚNCIA
+A DIREITOS ANTERIORES. TEMA 943/STJ. RECURSO NÃO CONHECIDO.
+1. O...
+
+
+#### Processo 1993765
+- **Classe**: RECURSO ESPECIAL
+- **Relator**: JOÃO OTÁVIO DE NORONHA
+- **Data**: 20260209
+- **Ementa**: DIREITO PREVIDENCIÁRIO. RECURSO ESPECIAL. COMPLEMENTAÇÃO DE
+APOSENTADORIA EM PREVIDÊNCIA PRIVADA. TERMO INICIAL DA PRESCRIÇÃO,
+NOVAÇÃO E INAPLICABILIDADE DE TRATO SUCESSIVO. RECURSO ESPECIAL
+DESPROVID...
+
+
+#### Processo 2449775
+- **Classe**: AGRAVO EM RECURSO ESPECIAL
+- **Relator**: JOÃO OTÁVIO DE NORONHA
+- **Data**: 20260209
+- **Ementa**: DIREITO PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA
+PRIVADA. PECÚLIO E SUPLEMENTAÇÃO DE PENSÃO POR MORTE. APLICAÇÃO DE
+REGULAMENTO VIGENTE À ÉPOCA DA APOSENTADORIA. AGRAVO DESPROVIDO.
+I. C...
+
+
+#### Processo 2730350
+- **Classe**: AGRAVO EM RECURSO ESPECIAL
+- **Relator**: JOÃO OTÁVIO DE NORONHA
+- **Data**: 20260209
+- **Ementa**: DIREITO PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA
+COMPLEMENTAR PRIVADA. REAJUSTE ANUAL DE COMPLEMENTAÇÃO DE
+APOSENTADORIA. INPC. ÓBICES PROCESSUAIS (SÚMULAS N. 5, 7 E 211 DO
+STJ E 282, 2...
+
+
+#### Processo 1940519
+- **Classe**: RECURSO ESPECIAL
+- **Relator**: MOURA RIBEIRO
+- **Data**: 20260209
+- **Ementa**: PROCESSUAL CIVIL E DIREITO PREVIDENCIÁRIO. PREVIDÊNCIA PRIVADA.
+RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARTS. 1.022 E
+489 DO CPC. NÃO OCORRÊNCIA. SUPLEMENTAÇÃO DE PENSÃO POR MORTE.
+RESO...
+
+
+## Entendimento Consolidado
+
+*A ser preenchido com análise de padrões de votação*
+
+## Divergências Conhecidas
+
+*A ser preenchido com análise de posições minoritárias*
+
+## Referências Cruzadas
+
+- [[direito-processual]]
+- [[direito-contratual]]
+
+---
+*Página gerada automaticamente. Última atualização: 2026-04-08 11:04:09*

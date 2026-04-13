@@ -1,0 +1,69 @@
+---
+title: "BENEDITO GONÇALVES"
+category: "relatores"
+created: "2026-04-08"
+updated: "2026-04-08"
+julgados: 14
+---
+
+# BENEDITO GONÇALVES
+
+## Perfil
+
+Ministro do Superior Tribunal de Justiça. Esta página consolida a análise da jurisprudência e posicionamento jurídico deste Ministro.
+
+## Estatísticas
+
+| Métrica | Valor |
+| :--- | :--- |
+| Total de Julgados | 14 |
+| Classes Principais | AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL (3), AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL (3), RECURSO ESPECIAL (3) |
+
+## Julgados Recentes
+
+
+### EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL - 20260209
+- **Processo**: 2196026
+- **Ementa**: PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO
+RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. RETRATAÇÃO. TEMA
+1.283/STJ. AFETAÇÃO. REGIME D...
+
+
+### AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - 20260209
+- **Processo**: 2169981
+- **Ementa**: PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO
+RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. DEFICIÊNCIA DA
+FUNDAMENTAÇÃO RECURSAL. SÚ...
+
+
+### AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL - 20260209
+- **Processo**: 90530
+- **Ementa**: PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO
+ESPECIAL. JUÍZO DE RETRATAÇÃO. REPERCUSSÃO GERAL. CONTRIBUIÇÃO
+PREVIDENCIÁRIA. SA...
+
+
+### RECURSO ESPECIAL - 20260209
+- **Processo**: 2108087
+- **Ementa**: PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO DE
+IMPROBIDADE ADMINISTRATIVA. OFENSA AOS PRINCÍPIOS DA ADMINISTRAÇÃO
+PÚBLICA. CONTINUIDADE ...
+
+
+### EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL - 20260209
+- **Processo**: 2196026
+- **Ementa**: PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO
+RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. RETRATAÇÃO. TEMA
+1.283/STJ. AFETAÇÃO. REGIME D...
+
+
+## Posicionamento Jurídico
+
+*A ser preenchido com análise de tendências*
+
+## Divergências Conhecidas
+
+*A ser preenchido com análise de divergências com colegas*
+
+---
+*Página gerada automaticamente. Última atualização: 2026-04-08 11:04:09*

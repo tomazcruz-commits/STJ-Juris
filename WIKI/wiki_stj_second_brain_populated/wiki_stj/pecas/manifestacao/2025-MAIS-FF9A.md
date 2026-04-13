@@ -1,0 +1,63 @@
+---
+id: "2025-MAIS-FF9A"
+title: "PRODUÇÃO DE PROVAS — MAIS VIDA x VALDIR"
+type: "peca"
+categoria: "PRODUÇÃO DE PROVAS"
+ano: 2025
+polo_ativo: "MAIS VIDA"
+polo_passivo: "VALDIR"
+cliente: "MAIS VIDA"
+arquivo_original: "MACIEL PINHEIRO/MAIS VIDA/VALDIR/2025 - PRODUÇÃO DE PROVAS - MAIS VIDA x VALDIR.docx"
+created: "2026-04-11"
+updated: "2026-04-11"
+status: "stub"
+teses: []
+resultado: ""
+sumulas: []
+temas: []
+---
+
+# PRODUÇÃO DE PROVAS — MAIS VIDA x VALDIR (2025)
+
+> **Status:** stub gerado automaticamente. Preencher após revisão da peça.
+> **Arquivo:** `MACIEL PINHEIRO/MAIS VIDA/VALDIR/2025 - PRODUÇÃO DE PROVAS - MAIS VIDA x VALDIR.docx`
+
+---
+
+## Contexto do caso
+
+<!-- Descrever brevemente a situação fática e o que motivou esta peça -->
+
+---
+
+## Tese central
+
+<!-- Qual foi o argumento principal desenvolvido? -->
+
+---
+
+## Jurisprudência utilizada
+
+<!-- Súmulas, Temas Repetitivos e acórdãos citados na peça -->
+
+| Referência | Aplicação |
+|:-----------|:----------|
+| | |
+
+---
+
+## Resultado
+
+<!-- O que aconteceu depois desta peça? Deferido, indeferido, provido, desprovido? -->
+
+---
+
+## Lições aprendidas
+
+<!-- O que funcionou bem? O que faria diferente? -->
+
+---
+
+## Links
+
+- Tipo: [[pecas/manifestacao/index|Índice PRODUÇÃO DE PROVAS]]

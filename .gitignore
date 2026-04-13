@@ -3,3 +3,22 @@ __pycache__/
 .env
 venv/
 __init__.py
+
+# Dados grandes — não versionar
+*.db
+*.db-shm
+*.db-wal
+*.csv
+*.json.tmp
+*.tmp
+*.tmp.*
+
+# Embeddings gerados (ficam em AppData/Local)
+*.bin
+*.faiss
+*.npy
+stj_indexer_log.txt
+
+# Arquivos brutos de coleta
+ARQUIVOS STJ/
+data/

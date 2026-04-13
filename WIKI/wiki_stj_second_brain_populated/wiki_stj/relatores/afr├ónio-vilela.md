@@ -1,0 +1,70 @@
+---
+title: "AFRÂNIO VILELA"
+category: "relatores"
+created: "2026-04-08"
+updated: "2026-04-08"
+julgados: 21
+---
+
+# AFRÂNIO VILELA
+
+## Perfil
+
+Ministro do Superior Tribunal de Justiça. Esta página consolida a análise da jurisprudência e posicionamento jurídico deste Ministro.
+
+## Estatísticas
+
+| Métrica | Valor |
+| :--- | :--- |
+| Total de Julgados | 21 |
+| Classes Principais | RECURSO ESPECIAL (6), EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL (3), CONFLITO DE COMPETENCIA (3) |
+
+## Julgados Recentes
+
+
+### RECURSO ESPECIAL - 20260203
+- **Processo**: 2233168
+- **Ementa**: TRIBUTÁRIO. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. RESSARCIMENTO DE
+CRÉDITOS. CORREÇÃO MONETÁRIA. TERMO INICIAL. OBSERVÂNCIA DO PRAZO
+DE 360 DIAS PRE...
+
+
+### RECURSO ESPECIAL - 20260211
+- **Processo**: 2236918
+- **Ementa**: DIREITO AMBIENTAL. RECURSO ESPECIAL. ÁREA DE PRESERVAÇÃO PERMANENTE.
+RESERVATÓRIO DE USINA HIDRELÉTRICA. APLICAÇÃO DO ART. 62 DO CÓDIGO
+FLORESTAL. MAR...
+
+
+### RECURSO ESPECIAL - 20260211
+- **Processo**: 2190892
+- **Ementa**: ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. IMPROBIDADE
+ADMINISTRATIVA. CONTRATAÇÃO COM INDEVIDA DISPENSA DE LICITAÇÃO.
+TESOUREIRO MUNICIPAL,...
+
+
+### EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO 
+ESPECIAL - 20260211
+- **Processo**: 2860322
+- **Ementa**: PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO
+EM RECURSO ESPECIAL. QUESTÃO JURÍDICA SUBMETIDA AO RITO DOS
+RECURSOS ESPECIAIS RE...
+
+
+### RECURSO ESPECIAL - 20260203
+- **Processo**: 1409762
+- **Ementa**: DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. IMPOSTO DE
+RENDA DA PESSOA FÍSICA. VERBAS PAGAS NA RESCISÃO UNILATERAL E
+IMOTIVADA DE CONTRAT...
+
+
+## Posicionamento Jurídico
+
+*A ser preenchido com análise de tendências*
+
+## Divergências Conhecidas
+
+*A ser preenchido com análise de divergências com colegas*
+
+---
+*Página gerada automaticamente. Última atualização: 2026-04-08 11:04:09*

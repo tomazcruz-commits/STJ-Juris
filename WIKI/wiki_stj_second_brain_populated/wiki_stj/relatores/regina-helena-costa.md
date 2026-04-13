@@ -1,0 +1,69 @@
+---
+title: "REGINA HELENA COSTA"
+category: "relatores"
+created: "2026-04-08"
+updated: "2026-04-08"
+julgados: 15
+---
+
+# REGINA HELENA COSTA
+
+## Perfil
+
+Ministro do Superior Tribunal de Justiça. Esta página consolida a análise da jurisprudência e posicionamento jurídico deste Ministro.
+
+## Estatísticas
+
+| Métrica | Valor |
+| :--- | :--- |
+| Total de Julgados | 15 |
+| Classes Principais | RECURSO ESPECIAL (6), EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL (3), RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA (3) |
+
+## Julgados Recentes
+
+
+### EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL - 20260209
+- **Processo**: 2220204
+- **Ementa**: TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO
+INTERNO NO RECURSO ESPECIAL. RECURSOS ESPECIAIS REPETITIVOS
+ATRIBUIÇÃO DE EXCEPCIONAIS ...
+
+
+### RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA - 20260203
+- **Processo**: 71420
+- **Ementa**: DIREITO CONSTITUCIONAL E ADMINISTRATIVO. RECURSO ORDINÁRIO EM
+MANDADO DE SEGURANÇA. PROCURADORES LEGISLATIVOS DA CÂMARA
+LEGISLATIVA DO DISTRITO FEDERA...
+
+
+### RECURSO ESPECIAL - 20260203
+- **Processo**: 2232623
+- **Ementa**: PROCESSUAL CIVIL. IMPROBIDADE ADMINISTRATIVA. ART. 17, § 6º, I, E §
+6º-B, DA LEI N. 8.429/1992. INDIVIDUALIZAÇÃO PORMENORIZADA DA
+CONDUTA ÍMPROBA. TEM...
+
+
+### RECURSO ESPECIAL - 20260210
+- **Processo**: 2211999
+- **Ementa**: PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO A RT. 7º DA LEI N.
+10.520/2002. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA, POR
+ANALOGIA, DA SÚMULA N. 282...
+
+
+### AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - 20260209
+- **Processo**: 2892450
+- **Ementa**: PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.
+INTERPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. PROPÓSITO DE
+PREQUESTIONAMENTO. CONDENAÇÃO POR...
+
+
+## Posicionamento Jurídico
+
+*A ser preenchido com análise de tendências*
+
+## Divergências Conhecidas
+
+*A ser preenchido com análise de divergências com colegas*
+
+---
+*Página gerada automaticamente. Última atualização: 2026-04-08 11:04:09*

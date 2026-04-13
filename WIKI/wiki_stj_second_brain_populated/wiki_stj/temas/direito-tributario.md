@@ -1,0 +1,105 @@
+---
+title: "Direito Tributario"
+category: "temas"
+created: "2026-04-08"
+updated: "2026-04-08"
+sources: 7
+related: []
+---
+
+# Direito Tributario
+
+## Síntese
+
+Base de conhecimento sobre Direito Tributario no STJ. Esta página consolida a jurisprudência e o entendimento consolidado sobre este tema.
+
+## Jurisprudência Recente
+
+Total de julgados indexados: **7**
+
+### Últimos Julgados
+
+
+#### Processo 2213551
+- **Classe**: RECURSO ESPECIAL
+- **Relator**: MARIA THEREZA DE ASSIS MOURA
+- **Data**: 20251210
+- **Ementa**: DIREITO TRIBUTÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA.
+TEMA 1.371/STJ. ITCMD. BASE DE CÁLCULO. VALOR VENAL. PROCEDIMENTO
+DE ARBITRAMENTO. PRERROGATIVA DO FISCO, DECORRENTE DIRETAMENTE DO...
+
+
+#### Processo 2946882
+- **Classe**: AGRAVO EM RECURSO ESPECIAL
+- **Relator**: FRANCISCO FALCÃO
+- **Data**: 20251217
+- **Ementa**: PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL
+CONHECIDO. ÓBICES À ADMISSIBILIDADE DO RECURSO ESPECIAL. PRETENSÃO
+DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA...
+
+
+#### Processo 3008437
+- **Classe**: AGRAVO EM RECURSO ESPECIAL
+- **Relator**: FRANCISCO FALCÃO
+- **Data**: 20251217
+- **Ementa**: PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. AGRAVO DE INSTRUMENTO.
+CUMPRIMENTO DE SENTENÇA. LIMITAÇÃO TEMPORAL EM RELAÇÃO AO CRÉDITO DO
+EXEQUENTE. AGRAVO EM RECURSO ESPECIAL CONHECIDO. ÓBICES À
+ADMISSIBILID...
+
+
+#### Processo 2164088
+- **Classe**: AGRAVO INTERNO NO RECURSO ESPECIAL
+- **Relator**: MARIA THEREZA DE ASSIS MOURA
+- **Data**: 20260211
+- **Ementa**: DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. TERMO
+INICIAL DO PRAZO PARA EMBARGAR. ARTS. 16, III, E 12, § 3º DA LEF.
+NULIDADE DO ATO INTIMATÓRIO DA PENHORA. DESNECESSIDADE DE REEXAME DE
+PRO...
+
+
+#### Processo 1205592
+- **Classe**: RECURSO ESPECIAL
+- **Relator**: MARCO AURÉLIO BELLIZZE
+- **Data**: 20260211
+- **Ementa**: RECURSO ESPECIAL. DIREITO TRIBUTÁRIO. JUÍZO DE RETRATAÇÃO. ART.
+1.040, II, DO CPC/2015. TEMA 985 DO SUPREMO TRIBUNAL FEDERAL.
+DIVERGÊNCIA EXISTENTE. JUÍZO DE RETRATAÇÃO POSITIVO. RECURSO
+ESPECIAL DESP...
+
+
+#### Processo 2065268
+- **Classe**: RECURSO ESPECIAL
+- **Relator**: MARIA THEREZA DE ASSIS MOURA
+- **Data**: 20260210
+- **Ementa**: DIREITO TRIBUTÁRIO. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. BASE DE
+CÁLCULO DO IRPJ E DA CSLL. BENEFÍCIOS FISCAIS DE ICMS DIVERSOS DO
+CRÉDITO PRESUMIDO. REDUÇÃO DE BASE DE CÁLCULO E DIFERIMENTO. TEMA
+...
+
+
+#### Processo 1559926
+- **Classe**: RECURSO ESPECIAL
+- **Relator**: MARIA THEREZA DE ASSIS MOURA
+- **Data**: 20260210
+- **Ementa**: DIREITO TRIBUTÁRIO. RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA
+PATRONAL. TERÇO CONSTITUCIONAL DE FÉRIAS GOZADAS. JUÍZO DE
+RETRATAÇÃO. ARTIGO 1.030, INCISO II, DO CÓDIGO DE PROCESSO CIVIL DE
+2015. A...
+
+
+## Entendimento Consolidado
+
+*A ser preenchido com análise de padrões de votação*
+
+## Divergências Conhecidas
+
+*A ser preenchido com análise de posições minoritárias*
+
+## Referências Cruzadas
+
+- [[direito-processual]]
+- [[direito-contratual]]
+
+---
+*Página gerada automaticamente. Última atualização: 2026-04-08 11:04:09*
