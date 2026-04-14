@@ -165,9 +165,10 @@ def main():
     cur.execute(query, (ultimo_rowid,))
     restantes   = total_db - offset
     pbar        = tqdm(total=restantes, unit="doc") if tqdm else None
-    t0          = time.time()
-    processados = 0
-    ultimo_id   = ultimo_rowid
+    t0                  = time.time()
+    processados         = 0
+    ultimo_id           = ultimo_rowid
+    _proximo_checkpoint = CHECKPOINT_CADA
 
     try:
         while True:
@@ -203,7 +204,7 @@ def main():
                 pbar.update(n)
 
             # Checkpoint: flush + meta (sem re-escrever embeddings)
-            if processados % CHECKPOINT_CADA == 0:
+            if processados >= _proximo_checkpoint:
                 emb_file.flush()
                 ids_file.flush()
                 salvar_progresso(meta_path, int(ultimo_id), offset)
@@ -214,6 +215,7 @@ def main():
                 _, _, livre = shutil.disk_usage(str(OUT_DIR.drive) + "/")
                 print(f"\n[{offset:,}/{total_db:,}] vel={vel:.0f} doc/s | "
                       f"ETA~{eta_h:.1f}h | disco livre: {livre/1e6:.0f}MB")
+                _proximo_checkpoint = processados + CHECKPOINT_CADA
 
     finally:
         emb_file.flush()
