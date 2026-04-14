@@ -77,12 +77,14 @@ def salvar_progresso(meta_path: Path, ultimo_rowid: int, total: int):
 def checar_espaco(path: Path, necessario_mb: float):
     _, _, livre = shutil.disk_usage(str(path.drive) + "/")
     livre_mb = livre / 1e6
-    if livre_mb < necessario_mb:
-        print(f"\n[ERRO] Espaço insuficiente em {path.drive}")
-        print(f"       Necessário: {necessario_mb:.0f}MB | Disponível: {livre_mb:.0f}MB")
-        print(f"       Libere pelo menos {necessario_mb - livre_mb:.0f}MB e tente novamente.")
-        sys.exit(1)
-    print(f"Espaço em disco: {livre_mb:.0f}MB livres (necessário ~{necessario_mb:.0f}MB) OK\n")
+    # Aviso suave se espaço baixo mas ainda suficiente (margem de 50MB)
+    if livre_mb < necessario_mb - 50:
+        print(f"\n[AVISO] Espaço em disco: {livre_mb:.0f}MB livres (ideal: {necessario_mb:.0f}MB)")
+        if livre_mb < 50:
+            print(f"[ERRO] Menos de 50MB livres — abortando para evitar corrupção.")
+            sys.exit(1)
+    else:
+        print(f"Espaço em disco: {livre_mb:.0f}MB livres (necessário ~{necessario_mb:.0f}MB) OK\n")
 
 
 # ─── MAIN ─────────────────────────────────────────────────────────────────────
@@ -103,9 +105,12 @@ def main():
     print(f"Modelo:   {MODELO}")
     print()
 
-    # ── Verificar espaço (embeddings + faiss + margem) ────────────────────────
-    # 638k × 384 × 4 bytes ≈ 980MB + ~61MB FAISS + 100MB margem
-    checar_espaco(OUT_DIR, necessario_mb=1_150)
+    # ── Verificar espaço (apenas o que ainda falta gerar) ─────────────────────
+    emb_ja_gerado = emb_path.stat().st_size if emb_path.exists() else 0
+    emb_total     = 638_198 * DIM * 4
+    emb_restante  = max(0, emb_total - emb_ja_gerado)
+    necessario_mb = (emb_restante / 1e6) + 150  # +150MB para FAISS + margem
+    checar_espaco(OUT_DIR, necessario_mb=necessario_mb)
 
     # ── Imports pesados ───────────────────────────────────────────────────────
     print("Carregando modelo de embeddings...")
