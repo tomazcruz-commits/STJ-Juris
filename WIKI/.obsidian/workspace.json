@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "2b68a47788968548",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5592c5222c6f5de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "389419df60a36441",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki_stj_second_brain_populated/STJ_Second_Brain_Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "STJ_Second_Brain_Architecture"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5324ae628580045",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad9e503623a430df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddc062495f63167f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de ficheiros"
+            }
+          },
+          {
+            "id": "d31134f2b44233aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "41d086c3e7b6866e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3a2082a415c75d87",
+    "type": "split",
+    "children": [
+      {
+        "id": "51e49ac425375b1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5def4fc37ca3a288",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Temas Jurídicos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks para Temas Jurídicos"
+            }
+          },
+          {
+            "id": "da78a5722cb2f127",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Temas Jurídicos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links externos de Temas Jurídicos"
+            }
+          },
+          {
+            "id": "789f2fbc858abf39",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "7c24e99e31274725",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "fae796c69b9273d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Temas Jurídicos.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Índice de Temas Jurídicos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir Quick Switcher": false,
+      "graph:Abrir Visualização de diagrama de grafo": false,
+      "canvas:Criar novo Canvas": false,
+      "daily-notes:Abrir nota de hoje": false,
+      "templates:Inserir templates": false,
+      "command-palette:Abrir paleta de comando": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "389419df60a36441",
+  "lastOpenFiles": [
+    "wiki_stj_second_brain_populated/wiki_stj/pecas/resp/2026-AMIS-6AA8.md",
+    "wiki_stj_second_brain_populated/wiki_stj/pecas/resp/2026-MCM-0E09.md",
+    "wiki_stj_second_brain_populated/wiki_stj/casos/CASO-IVAN-JUNT-C13D.md",
+    "wiki_stj_second_brain_populated/wiki_stj/casos/CASO-DOWN-ITAU-8DA9.md",
+    "wiki_stj_second_brain_populated/wiki_stj/casos/CASO-ASTR-MACI-BD09.md",
+    "wiki_stj_second_brain_populated/wiki_stj/casos/CASO-ASTR-DADO-50FF.md",
+    "wiki_stj_second_brain_populated/wiki_stj/casos/CASO-AMIS-JUNT-0EF5.md",
+    "wiki_stj_second_brain_populated/wiki_stj/casos/CASO-ALEX-PROD-1349.md",
+    "wiki_stj_second_brain_populated/wiki_stj/scripts/extrator_v3.py",
+    "wiki_stj_second_brain_populated/wiki_stj/alertas/extracao-report-v3-2026-04-11.md",
+    "wiki_stj_second_brain_populated/wiki_stj/alertas/extracao-report-2026-04-11.md",
+    "wiki_stj_second_brain_populated/wiki_stj/casos/index.md",
+    "wiki_stj_second_brain_populated/wiki_stj/casos/CASO-ACRE-CLEU-AA8E.md",
+    "wiki_stj_second_brain_populated/wiki_stj/casos/CASO-ADMO-ALES-B7C6.md",
+    "wiki_stj_second_brain_populated/wiki_stj/casos/CASO-SOCI-MARI-9FE5.md",
+    "wiki_stj_second_brain_populated/wiki_stj/casos/casos_mapping.json",
+    "wiki_stj_second_brain_populated/wiki_stj/casos/CASO-TUTT-TUTT-E8F1.md",
+    "wiki_stj_second_brain_populated/wiki_stj/casos/CASO-TUTT-EDFS-5D6D.md",
+    "wiki_stj_second_brain_populated/wiki_stj/casos/CASO-TUTT-EDFS-14E5.md",
+    "wiki_stj_second_brain_populated/wiki_stj/casos/CASO-TOMA-JOOA-219F.md",
+    "wiki_stj_second_brain_populated/wiki_stj/casos/CASO-TARC-JULG-889D.md",
+    "wiki_stj_second_brain_populated/wiki_stj/casos/CASO-TARC-CONT-E893.md",
+    "wiki_stj_second_brain_populated/wiki_stj/casos/CASO-T4S-IMPU-75EB.md",
+    "wiki_stj_second_brain_populated/wiki_stj/casos/CASO-T4S-IMPU-63F6.md",
+    "wiki_stj_second_brain_populated/wiki_stj/casos/CASO-STMO-IMPU-A981.md",
+    "wiki_stj_second_brain_populated/wiki_stj/casos/CASO-SOCI-TRAN-144C.md",
+    "wiki_stj_second_brain_populated/wiki_stj/casos/CASO-SPOR-IMPL-3663.md",
+    "wiki_stj_second_brain_populated/wiki_stj/casos/CASO-SOCI-SULA-BB34.md",
+    "wiki_stj_second_brain_populated/wiki_stj/scripts/bootstrap_casos.py",
+    "wiki_stj_second_brain_populated/wiki_stj/casos",
+    "wiki_stj_second_brain_populated/wiki_stj/alertas",
+    "wiki_stj_second_brain_populated/wiki_stj/scripts/alerta_stj.py",
+    "wiki_stj_second_brain_populated/wiki_stj/scripts/alerta_stj.py.tmp.5.1775934065341",
+    "wiki_stj_second_brain_populated/wiki_stj/scripts",
+    "wiki_stj_second_brain_populated/wiki_stj/dataview-queries.md.tmp.5.1775921980858",
+    "wiki_stj_second_brain_populated/wiki_stj/sinteses/capturados",
+    "Sem título 1.canvas",
+    "Sem título.canvas"
+  ]
+}

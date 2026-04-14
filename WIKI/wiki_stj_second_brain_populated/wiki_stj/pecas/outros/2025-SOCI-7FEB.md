@@ -1,0 +1,63 @@
+---
+id: "2025-SOCI-7FEB"
+title: "OUTROS — EXECUTIVIDADE - ROBERTA M x MARIA VITORIA"
+type: "peca"
+categoria: "OUTROS"
+ano: 2025
+polo_ativo: "EXECUTIVIDADE - ROBERTA M"
+polo_passivo: "MARIA VITORIA"
+cliente: "SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA"
+arquivo_original: "MACIEL PINHEIRO/SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA/ROBERTA M OLIVEIRA/2025 - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - ROBERTA M x MARIA VITORIA.docx"
+created: "2026-04-11"
+updated: "2026-04-11"
+status: "stub"
+teses: []
+resultado: ""
+sumulas: []
+temas: []
+---
+
+# OUTROS — EXECUTIVIDADE - ROBERTA M x MARIA VITORIA (2025)
+
+> **Status:** stub gerado automaticamente. Preencher após revisão da peça.
+> **Arquivo:** `MACIEL PINHEIRO/SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA/ROBERTA M OLIVEIRA/2025 - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - ROBERTA M x MARIA VITORIA.docx`
+
+---
+
+## Contexto do caso
+
+<!-- Descrever brevemente a situação fática e o que motivou esta peça -->
+
+---
+
+## Tese central
+
+<!-- Qual foi o argumento principal desenvolvido? -->
+
+---
+
+## Jurisprudência utilizada
+
+<!-- Súmulas, Temas Repetitivos e acórdãos citados na peça -->
+
+| Referência | Aplicação |
+|:-----------|:----------|
+| | |
+
+---
+
+## Resultado
+
+<!-- O que aconteceu depois desta peça? Deferido, indeferido, provido, desprovido? -->
+
+---
+
+## Lições aprendidas
+
+<!-- O que funcionou bem? O que faria diferente? -->
+
+---
+
+## Links
+
+- Tipo: [[pecas/outros/index|Índice OUTROS]]

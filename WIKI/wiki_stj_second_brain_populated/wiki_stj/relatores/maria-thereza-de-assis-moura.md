@@ -1,0 +1,69 @@
+---
+title: "MARIA THEREZA DE ASSIS MOURA"
+category: "relatores"
+created: "2026-04-08"
+updated: "2026-04-08"
+julgados: 37
+---
+
+# MARIA THEREZA DE ASSIS MOURA
+
+## Perfil
+
+Ministro do Superior Tribunal de Justiça. Esta página consolida a análise da jurisprudência e posicionamento jurídico deste Ministro.
+
+## Estatísticas
+
+| Métrica | Valor |
+| :--- | :--- |
+| Total de Julgados | 37 |
+| Classes Principais | RECURSO ESPECIAL (15), RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA (7), AGRAVO INTERNO NO RECURSO ESPECIAL (5) |
+
+## Julgados Recentes
+
+
+### RECURSO ESPECIAL - 20260211
+- **Processo**: 2157805
+- **Ementa**: DIREITO AMBIENTAL. RECURSOS ESPECIAIS. PROIBIÇÃO DE CONSTRUÇÃO EM
+ÁREA DE PRESERVAÇÃO PERMANENTE. RESTINGA. VALIDADE DA RESOLUÇÃO
+CONAMA 303/2002. REC...
+
+
+### RECURSO ESPECIAL - 20260210
+- **Processo**: 2065268
+- **Ementa**: DIREITO TRIBUTÁRIO. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. BASE DE
+CÁLCULO DO IRPJ E DA CSLL. BENEFÍCIOS FISCAIS DE ICMS DIVERSOS DO
+CRÉDITO PRESUMID...
+
+
+### RECURSO ESPECIAL - 20260210
+- **Processo**: 1559926
+- **Ementa**: DIREITO TRIBUTÁRIO. RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA
+PATRONAL. TERÇO CONSTITUCIONAL DE FÉRIAS GOZADAS. JUÍZO DE
+RETRATAÇÃO. ARTIGO 1.030,...
+
+
+### RECURSO ESPECIAL - 20251216
+- **Processo**: 2227073
+- **Ementa**: PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA.
+RECURSO ESPECIAL. CUMULAÇÃO INDEVIDA DE CARGOS PÚBLICOS DE MUNICÍPIO
+E DE ASSESSOR LEGI...
+
+
+### RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA - 20260210
+- **Processo**: 77995
+- **Ementa**: ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA.
+CONCILIADOR JUDICIAL. DESCREDENCIAMENTO. RECURSO NÃO PROVIDO. AGRAVO
+DE INSTRUMENTO PREJUDI...
+
+
+## Posicionamento Jurídico
+
+*A ser preenchido com análise de tendências*
+
+## Divergências Conhecidas
+
+*A ser preenchido com análise de divergências com colegas*
+
+---
+*Página gerada automaticamente. Última atualização: 2026-04-08 11:04:09*

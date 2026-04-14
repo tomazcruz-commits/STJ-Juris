@@ -1,0 +1,3733 @@
+{
+  "CASO-ACRE-CLEU-AA8E": {
+    "id": "CASO-ACRE-CLEU-AA8E",
+    "cliente": "ACREDITAR",
+    "adversario": "CLEUZA",
+    "polo": "passivo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 3,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-ACRE-B118",
+      "2025-ACRE-ABD1",
+      "2025-ACRE-EA24"
+    ]
+  },
+  "CASO-ADMO-ALES-B7C6": {
+    "id": "CASO-ADMO-ALES-B7C6",
+    "cliente": "AD MOTORS",
+    "adversario": "ALESSANDRA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-ADMO-827F"
+    ]
+  },
+  "CASO-ALEC-OLV-B97D": {
+    "id": "CASO-ALEC-OLV-B97D",
+    "cliente": "ALECON",
+    "adversario": "OLV",
+    "polo": "ativo",
+    "ano_inicio": "2026",
+    "ano_fim": "2026",
+    "total_pecas": 5,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2026-ALEC-0E21",
+      "2026-ALEC-0E21-1",
+      "2026-ALEC-0E21-2",
+      "2026-ALEC-0E21-3",
+      "2026-ALEC-0E21-4"
+    ]
+  },
+  "CASO-ALEX-PROD-1349": {
+    "id": "CASO-ALEX-PROD-1349",
+    "cliente": "ALEXANDRE GUSMÃO",
+    "adversario": "PRODUÇÃO DE PROVAS",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-ALEX-1349"
+    ]
+  },
+  "CASO-AMEL-SANT-0FF8": {
+    "id": "CASO-AMEL-SANT-0FF8",
+    "cliente": "AMELIA",
+    "adversario": "SANTANDER",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-AMEL-674C"
+    ]
+  },
+  "CASO-AMEL-SICR-89A1": {
+    "id": "CASO-AMEL-SICR-89A1",
+    "cliente": "AMELIA",
+    "adversario": "SICREDI",
+    "polo": "ativo",
+    "ano_inicio": "2026",
+    "ano_fim": "2026",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2026-AMEL-F26E"
+    ]
+  },
+  "CASO-AMIS-ACE-7310": {
+    "id": "CASO-AMIS-ACE-7310",
+    "cliente": "AMISTER",
+    "adversario": "ACE",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2026",
+    "total_pecas": 3,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-AMIS-6AA8",
+      "2025-AMIS-6AA8-1",
+      "2026-AMIS-6AA8"
+    ]
+  },
+  "CASO-AMIS-FERC-CD5F": {
+    "id": "CASO-AMIS-FERC-CD5F",
+    "cliente": "AMISTER",
+    "adversario": "FERCUNHA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-AMIS-943B"
+    ]
+  },
+  "CASO-AMIS-JUNT-0EF5": {
+    "id": "CASO-AMIS-JUNT-0EF5",
+    "cliente": "AMISTER",
+    "adversario": "JUNTADA DE SUBSTABELECIMENTO - GEILSON",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-AMIS-883A"
+    ]
+  },
+  "CASO-AMIS-SOMP-9C11": {
+    "id": "CASO-AMIS-SOMP-9C11",
+    "cliente": "AMISTER",
+    "adversario": "SOMPO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2026",
+    "total_pecas": 5,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-AMIS-1FAE",
+      "2025-AMIS-15AD",
+      "2025-AMIS-1FAE-1",
+      "2025-AMIS-1FAE-2",
+      "2026-AMIS-15AD"
+    ]
+  },
+  "CASO-ANAC-EXPE-D4EB": {
+    "id": "CASO-ANAC-EXPE-D4EB",
+    "cliente": "ANA CAROLINA AMARAL",
+    "adversario": "EXPEDIÇÃO DE CARTA PRECATÓRIA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-ANAC-D4EB"
+    ]
+  },
+  "CASO-ANAC-PROS-BB7B": {
+    "id": "CASO-ANAC-PROS-BB7B",
+    "cliente": "ANA CAROLINA AMARAL",
+    "adversario": "PROSSEGUIMENTO DO FEITO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-ANAC-BB7B"
+    ]
+  },
+  "CASO-ANAL-PROC-3AAD": {
+    "id": "CASO-ANAL-PROC-3AAD",
+    "cliente": "ANALISES CLINICAS",
+    "adversario": "processo nº 0004806",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-ANAL-3AAD"
+    ]
+  },
+  "CASO-ANDR-ANDR-30B5": {
+    "id": "CASO-ANDR-ANDR-30B5",
+    "cliente": "ANDRE CONNECTLOG",
+    "adversario": "ANDRÉ",
+    "polo": "ativo",
+    "ano_inicio": "2026",
+    "ano_fim": "2026",
+    "total_pecas": 2,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2026-ANDR-1D34",
+      "2026-ANDR-3AE9"
+    ]
+  },
+  "CASO-ANGA-BB-A42D": {
+    "id": "CASO-ANGA-BB-A42D",
+    "cliente": "ANGARA",
+    "adversario": "BB",
+    "polo": "ativo",
+    "ano_inicio": "2026",
+    "ano_fim": "2026",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2026-ANGA-C98F"
+    ]
+  },
+  "CASO-ANNE-UNIO-F64E": {
+    "id": "CASO-ANNE-UNIO-F64E",
+    "cliente": "ANNE MONTEAH",
+    "adversario": "UNIÃO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-ANNE-2C13"
+    ]
+  },
+  "CASO-ANTO-ANTO-63DB": {
+    "id": "CASO-ANTO-ANTO-63DB",
+    "cliente": "ANTONIO MARCO",
+    "adversario": "ANTONIO MARCO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-ANTO-63DB"
+    ]
+  },
+  "CASO-ANTO-ANTO-98A9": {
+    "id": "CASO-ANTO-ANTO-98A9",
+    "cliente": "ANTONIO MARCO",
+    "adversario": "ANTONIO MARCOS",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-ANTO-98A9"
+    ]
+  },
+  "CASO-ANTO-AZUL-B96A": {
+    "id": "CASO-ANTO-AZUL-B96A",
+    "cliente": "ANTONIO MARCO",
+    "adversario": "AZUL",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 2,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-ANTO-52DA",
+      "2025-ANTO-D115"
+    ]
+  },
+  "CASO-ARRE-EXPE-8573": {
+    "id": "CASO-ARRE-EXPE-8573",
+    "cliente": "ARRECIFE",
+    "adversario": "EXPEDIÇÃO DE ALVARÁ",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-ARRE-8573"
+    ]
+  },
+  "CASO-ASTR-DADO-817F": {
+    "id": "CASO-ASTR-DADO-817F",
+    "cliente": "ASTROTUR",
+    "adversario": "DADOS BANCÁRIOS",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-ASTR-817F"
+    ]
+  },
+  "CASO-ASTR-DADO-50FF": {
+    "id": "CASO-ASTR-DADO-50FF",
+    "cliente": "ASTROTUR",
+    "adversario": "DADOS BANCÁRIOS - DANIEL",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-ASTR-6AAB"
+    ]
+  },
+  "CASO-ASTR-HONO-FA19": {
+    "id": "CASO-ASTR-HONO-FA19",
+    "cliente": "ASTROTUR",
+    "adversario": "HONORÁRIOS PROPORCIONAIS",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-ASTR-FA19"
+    ]
+  },
+  "CASO-ASTR-JUNT-F03E": {
+    "id": "CASO-ASTR-JUNT-F03E",
+    "cliente": "ASTROTUR",
+    "adversario": "JUNTADA DE SUBSTABELECIMENTO - COLORDECOR",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-ASTR-F03E"
+    ]
+  },
+  "CASO-ASTR-MACI-BD09": {
+    "id": "CASO-ASTR-MACI-BD09",
+    "cliente": "ASTROTUR",
+    "adversario": "MACIEL PINHEIRO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 2,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-ASTR-D99C",
+      "2025-ASTR-1D4B"
+    ]
+  },
+  "CASO-ASTR-SOLI-32A7": {
+    "id": "CASO-ASTR-SOLI-32A7",
+    "cliente": "ASTROTUR",
+    "adversario": "SOLICITAÇÃO DE CERTIDÃO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-ASTR-32A7"
+    ]
+  },
+  "CASO-AVDA-JUNT-78C0": {
+    "id": "CASO-AVDA-JUNT-78C0",
+    "cliente": "AV DA SILVA",
+    "adversario": "JUNTADA DE SUBSTABELECIMENTO - TJRJ",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-AVDA-78C0"
+    ]
+  },
+  "CASO-AVDA-PROC-70D9": {
+    "id": "CASO-AVDA-PROC-70D9",
+    "cliente": "AV DA SILVA",
+    "adversario": "processo nº 0004806",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-AVDA-70D9"
+    ]
+  },
+  "CASO-B2-MRH-EDDB": {
+    "id": "CASO-B2-MRH-EDDB",
+    "cliente": "B2",
+    "adversario": "MRH",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-B2-BBE0"
+    ]
+  },
+  "CASO-B2-SEBR-5449": {
+    "id": "CASO-B2-SEBR-5449",
+    "cliente": "B2",
+    "adversario": "SEBRAE",
+    "polo": "passivo",
+    "ano_inicio": "2026",
+    "ano_fim": "2026",
+    "total_pecas": 2,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2026-B2-B649",
+      "2026-B2-B649-1"
+    ]
+  },
+  "CASO-BEZ-NUBA-98C9": {
+    "id": "CASO-BEZ-NUBA-98C9",
+    "cliente": "BEZ",
+    "adversario": "NUBANK",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-BEZ-F13C"
+    ]
+  },
+  "CASO-BRAS-LIVI-F3EB": {
+    "id": "CASO-BRAS-LIVI-F3EB",
+    "cliente": "BRASIL TRANSPORTES",
+    "adversario": "LIVIO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-BRAS-EFCA"
+    ]
+  },
+  "CASO-BRUN-REJA-6A9C": {
+    "id": "CASO-BRUN-REJA-6A9C",
+    "cliente": "BRUNO SANCHES",
+    "adversario": "REJANE",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 3,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-BRUN-D9FB",
+      "2025-BRUN-D9FB-1",
+      "2025-BRUN-D9FB-2"
+    ]
+  },
+  "CASO-BRUN-ROSE-6235": {
+    "id": "CASO-BRUN-ROSE-6235",
+    "cliente": "BRUNO SANCHES",
+    "adversario": "ROSEANE",
+    "polo": "ativo",
+    "ano_inicio": "2026",
+    "ano_fim": "2026",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2026-BRUN-22F0"
+    ]
+  },
+  "CASO-CGPI-JUNT-748A": {
+    "id": "CASO-CGPI-JUNT-748A",
+    "cliente": "C. GPIPA",
+    "adversario": "JUNTADA DE COMP. DE PGTO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-CGPI-748A"
+    ]
+  },
+  "CASO-CGPI-JUNT-7B00": {
+    "id": "CASO-CGPI-JUNT-7B00",
+    "cliente": "C. GPIPA",
+    "adversario": "JUNTADA DE COMP. DE PGTO CUSTAS POSTAIS",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-CGPI-7B00"
+    ]
+  },
+  "CASO-CGPI-VIVO-0991": {
+    "id": "CASO-CGPI-VIVO-0991",
+    "cliente": "C. GPIPA",
+    "adversario": "VIVO",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-CGPI-7EB8"
+    ]
+  },
+  "CASO-CGPI-VIVO-1E12": {
+    "id": "CASO-CGPI-VIVO-1E12",
+    "cliente": "C. GPIPA",
+    "adversario": "VIVO - (1)",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-CGPI-BC78"
+    ]
+  },
+  "CASO-CGPI-VIVO-FA8A": {
+    "id": "CASO-CGPI-VIVO-FA8A",
+    "cliente": "C. GPIPA",
+    "adversario": "VIVO - (1)-LAPTOP-O41CV4S4",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-CGPI-1332"
+    ]
+  },
+  "CASO-CGPI-VIVO-AE71": {
+    "id": "CASO-CGPI-VIVO-AE71",
+    "cliente": "C. GPIPA",
+    "adversario": "VIVO - AJUSTES",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-CGPI-D110"
+    ]
+  },
+  "CASO-CARO-IDEA-177B": {
+    "id": "CASO-CARO-IDEA-177B",
+    "cliente": "CAROLINA CASSEMIRO",
+    "adversario": "IDEAL",
+    "polo": "passivo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 3,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-CARO-C9EE",
+      "2025-CARO-C9EE-1",
+      "2025-CARO-C9EE-2"
+    ]
+  },
+  "CASO-CASA-GLAU-5E22": {
+    "id": "CASO-CASA-GLAU-5E22",
+    "cliente": "CASA PLA",
+    "adversario": "GLAUSILISENI",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-CASA-9C6D"
+    ]
+  },
+  "CASO-CASA-NULI-A3CA": {
+    "id": "CASO-CASA-NULI-A3CA",
+    "cliente": "CASA PLA",
+    "adversario": "NULIDADE DE CITAÇÃO - CASA PLA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-CASA-A3CA"
+    ]
+  },
+  "CASO-CASA-RESP-ADFA": {
+    "id": "CASO-CASA-RESP-ADFA",
+    "cliente": "CASA PLA",
+    "adversario": "RESPOSTA NOTIFICAÇÃO CONDOMINIO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-CASA-ADFA"
+    ]
+  },
+  "CASO-CENT-JOSE-21CB": {
+    "id": "CASO-CENT-JOSE-21CB",
+    "cliente": "CENTRO MÉDICO",
+    "adversario": "JOSE BATISTA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-CENT-9805"
+    ]
+  },
+  "CASO-COLO-DESC-B270": {
+    "id": "CASO-COLO-DESC-B270",
+    "cliente": "COLOREDECOR",
+    "adversario": "DESCUMPRIMENTO DECISÃO LIMINAR -  COLORDECOR",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-COLO-B270"
+    ]
+  },
+  "CASO-COLO-INTI-152D": {
+    "id": "CASO-COLO-INTI-152D",
+    "cliente": "COLOREDECOR",
+    "adversario": "INTIMAÇÃO PARA CUMPRIMENTO DA LIMINAR",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-COLO-152D"
+    ]
+  },
+  "CASO-COLO-JUNT-93B9": {
+    "id": "CASO-COLO-JUNT-93B9",
+    "cliente": "COLOREDECOR",
+    "adversario": "JUNTADA DE SUBSTABELECIMENTO - COLORDECOR",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-COLO-93B9"
+    ]
+  },
+  "CASO-CONN-ALEX-0901": {
+    "id": "CASO-CONN-ALEX-0901",
+    "cliente": "CONNECT LOG",
+    "adversario": "ALEXSANDRO",
+    "polo": "ativo",
+    "ano_inicio": "2026",
+    "ano_fim": "2026",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2026-CONN-3696"
+    ]
+  },
+  "CASO-CONN-APRE-4960": {
+    "id": "CASO-CONN-APRE-4960",
+    "cliente": "CONNECT LOG",
+    "adversario": "APRECIAÇÃO DA PRELIMINAR DE ILEGITIMIDADE PASSIVA - CONNECT",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-CONN-26C0"
+    ]
+  },
+  "CASO-CONN-COBR-026E": {
+    "id": "CASO-CONN-COBR-026E",
+    "cliente": "CONNECT LOG",
+    "adversario": "COBRANÇA DE ALUGUEIS",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-CONN-026E"
+    ]
+  },
+  "CASO-CONN-CONN-18F1": {
+    "id": "CASO-CONN-CONN-18F1",
+    "cliente": "CONNECT LOG",
+    "adversario": "CONNECTLOG",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 2,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-CONN-0612",
+      "2025-CONN-0612-1"
+    ]
+  },
+  "CASO-CONN-CONT-055E": {
+    "id": "CASO-CONN-CONT-055E",
+    "cliente": "CONNECT LOG",
+    "adversario": "CONTRATO DE TRANSPORTE - ALEXSANDRO",
+    "polo": "passivo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-CONN-7FF8"
+    ]
+  },
+  "CASO-CONN-FRAU-3ECC": {
+    "id": "CASO-CONN-FRAU-3ECC",
+    "cliente": "CONNECT LOG",
+    "adversario": "FRAUDE COMETIDA POR TERCEIRO",
+    "polo": "passivo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 3,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-CONN-3ECC",
+      "2024-CONN-3ECC-1",
+      "2024-CONN-3ECC-2"
+    ]
+  },
+  "CASO-CONN-FRAU-59D6": {
+    "id": "CASO-CONN-FRAU-59D6",
+    "cliente": "CONNECT LOG",
+    "adversario": "FRAUDE COMETIDA POR TERCEIRO - NATHALIA",
+    "polo": "passivo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-CONN-FDD7"
+    ]
+  },
+  "CASO-CONN-JUNT-786D": {
+    "id": "CASO-CONN-JUNT-786D",
+    "cliente": "CONNECT LOG",
+    "adversario": "JUNTADA DE COMP. DE PGTO CUSTAS INICIAIS",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-CONN-786D"
+    ]
+  },
+  "CASO-CONN-JUNT-BC54": {
+    "id": "CASO-CONN-JUNT-BC54",
+    "cliente": "CONNECT LOG",
+    "adversario": "JUNTADA DE SUBSTABELECIMENTO - TJRJ",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-CONN-BC54"
+    ]
+  },
+  "CASO-CONS-ANDR-BEE3": {
+    "id": "CASO-CONS-ANDR-BEE3",
+    "cliente": "CONSORCIO TBK",
+    "adversario": "ANDRÉ SANTOS",
+    "polo": "passivo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 3,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-CONS-9EB4",
+      "2025-CONS-9EB4-1",
+      "2025-CONS-9EB4-2"
+    ]
+  },
+  "CASO-CONS-VETR-8EE4": {
+    "id": "CASO-CONS-VETR-8EE4",
+    "cliente": "CONSORCIO TBK",
+    "adversario": "VETRON",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 3,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-CONS-361B",
+      "2025-CONS-361B-1",
+      "2025-CONS-361B-2"
+    ]
+  },
+  "CASO-COST-CESA-8164": {
+    "id": "CASO-COST-CESA-8164",
+    "cliente": "COSTA NOVA",
+    "adversario": "CESAR",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 2,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-COST-C1C4",
+      "2025-COST-C1C4-1"
+    ]
+  },
+  "CASO-COST-CESA-A56A": {
+    "id": "CASO-COST-CESA-A56A",
+    "cliente": "COSTA NOVA",
+    "adversario": "CESAR ALEXANDRE",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 2,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-COST-7774",
+      "2025-COST-7774-1"
+    ]
+  },
+  "CASO-COST-COST-B7C9": {
+    "id": "CASO-COST-COST-B7C9",
+    "cliente": "COSTA NOVA",
+    "adversario": "COSTA  NOVA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 2,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-COST-FC04",
+      "2025-COST-FC04-1"
+    ]
+  },
+  "CASO-COST-COST-541A": {
+    "id": "CASO-COST-COST-541A",
+    "cliente": "COSTA NOVA",
+    "adversario": "COSTA NOVA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-COST-541A"
+    ]
+  },
+  "CASO-COST-RELA-1B7C": {
+    "id": "CASO-COST-RELA-1B7C",
+    "cliente": "COSTA NOVA",
+    "adversario": "Relatório LM Analitico",
+    "polo": "ativo",
+    "ano_inicio": "7449",
+    "ano_fim": "7449",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "7449-COST-1B7C"
+    ]
+  },
+  "CASO-COST-RELA-DCB2": {
+    "id": "CASO-COST-RELA-DCB2",
+    "cliente": "COSTA NOVA",
+    "adversario": "Relatório LM Estratégico",
+    "polo": "ativo",
+    "ano_inicio": "7449",
+    "ano_fim": "7449",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "7449-COST-DCB2"
+    ]
+  },
+  "CASO-DIEG-HONO-A0FD": {
+    "id": "CASO-DIEG-HONO-A0FD",
+    "cliente": "DIEGO QUADROS",
+    "adversario": "HONORÁRIOS PERICIAIS",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-DIEG-A0FD"
+    ]
+  },
+  "CASO-DIEG-INDI-0F42": {
+    "id": "CASO-DIEG-INDI-0F42",
+    "cliente": "DIEGO QUADROS",
+    "adversario": "INDICAÇÃO DE ASSISTENTE",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-DIEG-0F42"
+    ]
+  },
+  "CASO-DMCO-CONT-F2A5": {
+    "id": "CASO-DMCO-CONT-F2A5",
+    "cliente": "DM CORREIA",
+    "adversario": "CONTRACT",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-DMCO-6BC1"
+    ]
+  },
+  "CASO-DMB-DISC-6C6E": {
+    "id": "CASO-DMB-DISC-6C6E",
+    "cliente": "DMB",
+    "adversario": "DISCORDÂNCIA JUÍZO 100% DIGITAL",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-DMB-6C6E"
+    ]
+  },
+  "CASO-DMB-GRAV-6D22": {
+    "id": "CASO-DMB-GRAV-6D22",
+    "cliente": "DMB",
+    "adversario": "GRAVATEC",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2025",
+    "total_pecas": 3,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-DMB-8823",
+      "2025-DMB-3EC9",
+      "2025-DMB-3EC9-1"
+    ]
+  },
+  "CASO-DMB-JUNT-A279": {
+    "id": "CASO-DMB-JUNT-A279",
+    "cliente": "DMB",
+    "adversario": "JUNTADA DE COMPROVANTE DE HONORÁRIOS PERICIAIS",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-DMB-A279"
+    ]
+  },
+  "CASO-DMB-PETR-34FF": {
+    "id": "CASO-DMB-PETR-34FF",
+    "cliente": "DMB",
+    "adversario": "PETROBRAS",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-DMB-6AF0"
+    ]
+  },
+  "CASO-DMB-PETR-3BD5": {
+    "id": "CASO-DMB-PETR-3BD5",
+    "cliente": "DMB",
+    "adversario": "PETROBRAS - COPIA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-DMB-FD4D"
+    ]
+  },
+  "CASO-DMB-PETR-30E3": {
+    "id": "CASO-DMB-PETR-30E3",
+    "cliente": "DMB",
+    "adversario": "PETROBRAS - CORRIGIDO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-DMB-929D"
+    ]
+  },
+  "CASO-DMB-QUES-BD00": {
+    "id": "CASO-DMB-QUES-BD00",
+    "cliente": "DMB",
+    "adversario": "QUESITOS DMB",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-DMB-BD00"
+    ]
+  },
+  "CASO-DOMU-DOMU-04B8": {
+    "id": "CASO-DOMU-DOMU-04B8",
+    "cliente": "DOMU CONSTRUTORA",
+    "adversario": "DOMU",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-DOMU-04B8"
+    ]
+  },
+  "CASO-DOMU-DOMU-9962": {
+    "id": "CASO-DOMU-DOMU-9962",
+    "cliente": "DOMU CONSTRUTORA",
+    "adversario": "DOMU e WILLIAN",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-DOMU-9962"
+    ]
+  },
+  "CASO-DOMU-WILL-7761": {
+    "id": "CASO-DOMU-WILL-7761",
+    "cliente": "DOMU CONSTRUTORA",
+    "adversario": "WILLIAM",
+    "polo": "passivo",
+    "ano_inicio": "2026",
+    "ano_fim": "2026",
+    "total_pecas": 2,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2026-DOMU-151B",
+      "2026-DOMU-151B-1"
+    ]
+  },
+  "CASO-DOMU-WILL-FF5A": {
+    "id": "CASO-DOMU-WILL-FF5A",
+    "cliente": "DOMU CONSTRUTORA",
+    "adversario": "WILLIAN",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 6,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-DOMU-C4E7",
+      "2025-DOMU-C4E7-1",
+      "2025-DOMU-C4E7-2",
+      "2025-DOMU-C4E7-3",
+      "2025-DOMU-C4E7-4",
+      "2025-DOMU-C4E7-5"
+    ]
+  },
+  "CASO-DORT-JUNT-03A6": {
+    "id": "CASO-DORT-JUNT-03A6",
+    "cliente": "DORTBUSINESS",
+    "adversario": "JUNTADA DE SUBSTABELECIMENTO - TJRJ",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-DORT-03A6"
+    ]
+  },
+  "CASO-DOWN-ATUA-4955": {
+    "id": "CASO-DOWN-ATUA-4955",
+    "cliente": "DOWNLOADS",
+    "adversario": "ATUALIZAÇÃO DO DÉBITO E INFORMAÇÃO DOS DADOS PARA ARISP",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-DOWN-4955"
+    ]
+  },
+  "CASO-DOWN-HJN-92A3": {
+    "id": "CASO-DOWN-HJN-92A3",
+    "cliente": "DOWNLOADS",
+    "adversario": "HJN",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-DOWN-7771"
+    ]
+  },
+  "CASO-DOWN-INDE-81EC": {
+    "id": "CASO-DOWN-INDE-81EC",
+    "cliente": "DOWNLOADS",
+    "adversario": "INDENIZATÓRIA - WGA X PERSONAL DESPACHANTE",
+    "polo": "ativo",
+    "ano_inicio": "2022",
+    "ano_fim": "2022",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2022-DOWN-81EC"
+    ]
+  },
+  "CASO-DOWN-ITAU-8DA9": {
+    "id": "CASO-DOWN-ITAU-8DA9",
+    "cliente": "DOWNLOADS",
+    "adversario": "ITAU",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-DOWN-1640"
+    ]
+  },
+  "CASO-DOWN-LOKA-4686": {
+    "id": "CASO-DOWN-LOKA-4686",
+    "cliente": "DOWNLOADS",
+    "adversario": "LOKAHI X CORTEZIP",
+    "polo": "ativo",
+    "ano_inicio": "2023",
+    "ano_fim": "2023",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2023-DOWN-4686"
+    ]
+  },
+  "CASO-DOWN-SUST-8E6A": {
+    "id": "CASO-DOWN-SUST-8E6A",
+    "cliente": "DOWNLOADS",
+    "adversario": "SUSTAÇÃO DE PROTESTO - MCM",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-DOWN-FDDA"
+    ]
+  },
+  "CASO-DOWN-VICI-294B": {
+    "id": "CASO-DOWN-VICI-294B",
+    "cliente": "DOWNLOADS",
+    "adversario": "VICIO NO PRODUTO - FORA DA GARANTIA - DANO MORAL - GR MED",
+    "polo": "passivo",
+    "ano_inicio": "2022",
+    "ano_fim": "2022",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2022-DOWN-EC54"
+    ]
+  },
+  "CASO-DPC-MELH-92C7": {
+    "id": "CASO-DPC-MELH-92C7",
+    "cliente": "DPC",
+    "adversario": "MELHORAMENTOS",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2026",
+    "total_pecas": 2,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-DPC-6262",
+      "2026-DPC-6262"
+    ]
+  },
+  "CASO-DPC-SCA-33B9": {
+    "id": "CASO-DPC-SCA-33B9",
+    "cliente": "DPC",
+    "adversario": "SCA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-DPC-7671"
+    ]
+  },
+  "CASO-DPC-VILL-3E59": {
+    "id": "CASO-DPC-VILL-3E59",
+    "cliente": "DPC",
+    "adversario": "VILLE SANTÉ",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-DPC-5603"
+    ]
+  },
+  "CASO-DBOR-DEBO-71EF": {
+    "id": "CASO-DBOR-DEBO-71EF",
+    "cliente": "DÉBORA FERNANDES",
+    "adversario": "DEBORA FERNANDES",
+    "polo": "ativo",
+    "ano_inicio": "2026",
+    "ano_fim": "2026",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2026-DBOR-1828"
+    ]
+  },
+  "CASO-DBOR-MELH-7501": {
+    "id": "CASO-DBOR-MELH-7501",
+    "cliente": "DÉBORA FERNANDES",
+    "adversario": "MELHORAMENTOS",
+    "polo": "ativo",
+    "ano_inicio": "2026",
+    "ano_fim": "2026",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2026-DBOR-4DF3"
+    ]
+  },
+  "CASO-EMPR-PROD-D8F5": {
+    "id": "CASO-EMPR-PROD-D8F5",
+    "cliente": "EMPREENDINOR",
+    "adversario": "PRODUÇÃO DE PROVAS - TIAGO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-EMPR-8D4B"
+    ]
+  },
+  "CASO-EUGE-ABEL-7206": {
+    "id": "CASO-EUGE-ABEL-7206",
+    "cliente": "EUGENIO PEREIRA",
+    "adversario": "ABEL",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-EUGE-40A0"
+    ]
+  },
+  "CASO-EUGE-DRAN-9752": {
+    "id": "CASO-EUGE-DRAN-9752",
+    "cliente": "EUGENIO PEREIRA",
+    "adversario": "DRANCY",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2026",
+    "total_pecas": 2,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-EUGE-DFB0",
+      "2026-EUGE-DFB0"
+    ]
+  },
+  "CASO-EUGE-DRAN-B424": {
+    "id": "CASO-EUGE-DRAN-B424",
+    "cliente": "EUGENIO PEREIRA",
+    "adversario": "DRANCY - COPIA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-EUGE-D5CF"
+    ]
+  },
+  "CASO-EUGE-SANT-BDA9": {
+    "id": "CASO-EUGE-SANT-BDA9",
+    "cliente": "EUGENIO PEREIRA",
+    "adversario": "SANTA LUZIA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-EUGE-43F4"
+    ]
+  },
+  "CASO-FABI-INDI-979E": {
+    "id": "CASO-FABI-INDI-979E",
+    "cliente": "FABIANA BATISTA",
+    "adversario": "INDICAÇÃO DE ASSISTENTE",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-FABI-979E"
+    ]
+  },
+  "CASO-FERC-INSS-C119": {
+    "id": "CASO-FERC-INSS-C119",
+    "cliente": "FERCUNHA",
+    "adversario": "INSS",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 3,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-FERC-B6F1",
+      "2025-FERC-B6F1-1",
+      "2025-FERC-B6F1-2"
+    ]
+  },
+  "CASO-FERN-CEF-5ED6": {
+    "id": "CASO-FERN-CEF-5ED6",
+    "cliente": "FERNANDO BOLOS",
+    "adversario": "CEF",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-FERN-1D2F"
+    ]
+  },
+  "CASO-FERN-PEIX-8DFB": {
+    "id": "CASO-FERN-PEIX-8DFB",
+    "cliente": "FERNANDO BOLOS",
+    "adversario": "PEIXOTO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2026",
+    "total_pecas": 4,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-FERN-7F92",
+      "2026-FERN-7F92",
+      "2026-FERN-7F92-1",
+      "2026-FERN-325E"
+    ]
+  },
+  "CASO-FERR-DILA-2D45": {
+    "id": "CASO-FERR-DILA-2D45",
+    "cliente": "FERREIRA E RODRIGUES",
+    "adversario": "DILAÇÃO DE PRAZO - FERREIRA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-FERR-327E"
+    ]
+  },
+  "CASO-FIRM-DENN-879E": {
+    "id": "CASO-FIRM-DENN-879E",
+    "cliente": "FIRMARE",
+    "adversario": "DENNOVA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-FIRM-251B"
+    ]
+  },
+  "CASO-GVAS-TRNS-DBB2": {
+    "id": "CASO-GVAS-TRNS-DBB2",
+    "cliente": "G VASCONCELOS",
+    "adversario": "TRÂNSITO EM JULGADO - processo nº 0004819",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-GVAS-DBB2"
+    ]
+  },
+  "CASO-GIRA-MARI-302A": {
+    "id": "CASO-GIRA-MARI-302A",
+    "cliente": "GIRASOL",
+    "adversario": "MARIA EUGENIA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-GIRA-03F2"
+    ]
+  },
+  "CASO-GUTE-EXTI-2339": {
+    "id": "CASO-GUTE-EXTI-2339",
+    "cliente": "GUTEMBERG",
+    "adversario": "EXTINÇÃO DA EXECUÇÃO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-GUTE-2339"
+    ]
+  },
+  "CASO-GUTE-JULG-5FB5": {
+    "id": "CASO-GUTE-JULG-5FB5",
+    "cliente": "GUTEMBERG",
+    "adversario": "JULGAMENTO ANTECIPADO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-GUTE-5FB5"
+    ]
+  },
+  "CASO-HADJ-JOSE-83E0": {
+    "id": "CASO-HADJ-JOSE-83E0",
+    "cliente": "HADJAMAR",
+    "adversario": "JOSE MAURICIO",
+    "polo": "ativo",
+    "ano_inicio": "2026",
+    "ano_fim": "2026",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2026-HADJ-D906"
+    ]
+  },
+  "CASO-HEPP-MERC-3036": {
+    "id": "CASO-HEPP-MERC-3036",
+    "cliente": "HEPPI",
+    "adversario": "MERCADO PAGO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2026",
+    "total_pecas": 6,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-HEPP-9071",
+      "2026-HEPP-9071",
+      "2026-HEPP-9071-1",
+      "2025-HEPP-9071-1",
+      "2025-HEPP-9071-2",
+      "2025-HEPP-9071-3"
+    ]
+  },
+  "CASO-HEPP-MERC-01D3": {
+    "id": "CASO-HEPP-MERC-01D3",
+    "cliente": "HEPPI",
+    "adversario": "MERCADO PAGO - COPIA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-HEPP-7F5D"
+    ]
+  },
+  "CASO-HIDR-BNB-9207": {
+    "id": "CASO-HIDR-BNB-9207",
+    "cliente": "HIDRAULNORTE",
+    "adversario": "BNB",
+    "polo": "ativo",
+    "ano_inicio": "2026",
+    "ano_fim": "2026",
+    "total_pecas": 3,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2026-HIDR-E3FA",
+      "2026-HIDR-E3FA-1",
+      "2026-HIDR-E3FA-2"
+    ]
+  },
+  "CASO-HILD-PENH-85FB": {
+    "id": "CASO-HILD-PENH-85FB",
+    "cliente": "HILDA",
+    "adversario": "PENHORA NO ROSTO DOS AUTOS",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-HILD-85FB"
+    ]
+  },
+  "CASO-HJN-GETN-108A": {
+    "id": "CASO-HJN-GETN-108A",
+    "cliente": "HJN",
+    "adversario": "GETNET",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-HJN-CA1D"
+    ]
+  },
+  "CASO-HJN-SANT-5688": {
+    "id": "CASO-HJN-SANT-5688",
+    "cliente": "HJN",
+    "adversario": "SANTANDER",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-HJN-F496"
+    ]
+  },
+  "CASO-HOME-NELS-A8B9": {
+    "id": "CASO-HOME-NELS-A8B9",
+    "cliente": "HOMEOSTASE",
+    "adversario": "NELSON",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-HOME-5500"
+    ]
+  },
+  "CASO-HOSP-MARI-E566": {
+    "id": "CASO-HOSP-MARI-E566",
+    "cliente": "HOSPETEC",
+    "adversario": "MARIA VITORIA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 2,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-HOSP-B88D",
+      "2025-HOSP-B88D-1"
+    ]
+  },
+  "CASO-HOSP-ALBA-B9DC": {
+    "id": "CASO-HOSP-ALBA-B9DC",
+    "cliente": "HOSPITAL E MATERNIDADE MARIA VITORIA LTDA",
+    "adversario": "ALBAN",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2026",
+    "total_pecas": 2,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-HOSP-263A",
+      "2026-HOSP-BB79"
+    ]
+  },
+  "CASO-HOSP-LEON-DC7A": {
+    "id": "CASO-HOSP-LEON-DC7A",
+    "cliente": "HOSPITAL E MATERNIDADE MARIA VITORIA LTDA",
+    "adversario": "LEON",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-HOSP-8AB5"
+    ]
+  },
+  "CASO-INGL-VANE-EA61": {
+    "id": "CASO-INGL-VANE-EA61",
+    "cliente": "INGLÊS PARTICULAR",
+    "adversario": "VANESSA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-INGL-F711"
+    ]
+  },
+  "CASO-INOR-JOAO-94EC": {
+    "id": "CASO-INOR-JOAO-94EC",
+    "cliente": "INORPEL",
+    "adversario": "JOAO PAULO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 4,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-INOR-24F5",
+      "2025-INOR-24F5-1",
+      "2025-INOR-24F5-2",
+      "2025-INOR-24F5-3"
+    ]
+  },
+  "CASO-INOR-JOAO-23D5": {
+    "id": "CASO-INOR-JOAO-23D5",
+    "cliente": "INORPEL",
+    "adversario": "JOAO PAULO - 2ª DECISÃO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-INOR-21E2"
+    ]
+  },
+  "CASO-INOR-JOOP-4C45": {
+    "id": "CASO-INOR-JOOP-4C45",
+    "cliente": "INORPEL",
+    "adversario": "JOÃO PAULO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 3,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-INOR-5F06",
+      "2025-INOR-A702",
+      "2025-INOR-5F06-1"
+    ]
+  },
+  "CASO-IVAN-JUNT-C13D": {
+    "id": "CASO-IVAN-JUNT-C13D",
+    "cliente": "IVAN",
+    "adversario": "JUNTADA DE COMP. DE PGTO CUSTAS POSTAIS",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-IVAN-C13D"
+    ]
+  },
+  "CASO-IVAN-PROD-A5D8": {
+    "id": "CASO-IVAN-PROD-A5D8",
+    "cliente": "IVAN",
+    "adversario": "PRODUÇÃO DE PROVAS - ULTRA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-IVAN-6593"
+    ]
+  },
+  "CASO-IVAN-ULTR-140B": {
+    "id": "CASO-IVAN-ULTR-140B",
+    "cliente": "IVAN",
+    "adversario": "ULTRA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-IVAN-2223"
+    ]
+  },
+  "CASO-JFSE-AODE-2AE4": {
+    "id": "CASO-JFSE-AODE-2AE4",
+    "cliente": "J&F Serviços de Fotodepilação e Estética Ltda",
+    "adversario": "AÇÃO DE COBRANÇA - J&F",
+    "polo": "passivo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 2,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-JFSE-2B75",
+      "2024-JFSE-2B75-1"
+    ]
+  },
+  "CASO-JFSE-RESP-69F5": {
+    "id": "CASO-JFSE-RESP-69F5",
+    "cliente": "J&F Serviços de Fotodepilação e Estética Ltda",
+    "adversario": "RESPOSTA DOCUMENTAÇÃO - J&F",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-JFSE-9B22"
+    ]
+  },
+  "CASO-JFSE-RESP-0973": {
+    "id": "CASO-JFSE-RESP-0973",
+    "cliente": "J&F Serviços de Fotodepilação e Estética Ltda",
+    "adversario": "RESPOSTA DOCUMENTAÇÃO - J^0F",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-JFSE-EE1B"
+    ]
+  },
+  "CASO-JAIR-UBER-FDCE": {
+    "id": "CASO-JAIR-UBER-FDCE",
+    "cliente": "JAIRO",
+    "adversario": "UBER",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2025",
+    "total_pecas": 4,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-JAIR-45B8",
+      "2024-JAIR-114D",
+      "2025-JAIR-114D",
+      "2025-JAIR-45B8-1"
+    ]
+  },
+  "CASO-JCFR-EXEC-60E1": {
+    "id": "CASO-JCFR-EXEC-60E1",
+    "cliente": "JC FRANCHISING",
+    "adversario": "EXECUÇÃO NULA",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-JCFR-60E1"
+    ]
+  },
+  "CASO-JOIA-ASAR-DEF8": {
+    "id": "CASO-JOIA-ASAR-DEF8",
+    "cliente": "JOIA RARA",
+    "adversario": "ASA RENT",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-JOIA-19B3"
+    ]
+  },
+  "CASO-JOIA-ASAR-2689": {
+    "id": "CASO-JOIA-ASAR-2689",
+    "cliente": "JOIA RARA",
+    "adversario": "ASA RENT - COPIA",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-JOIA-D413"
+    ]
+  },
+  "CASO-JOIA-JOIA-348B": {
+    "id": "CASO-JOIA-JOIA-348B",
+    "cliente": "JOIA RARA",
+    "adversario": "JOIA RARA",
+    "polo": "ativo",
+    "ano_inicio": "2026",
+    "ano_fim": "2026",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2026-JOIA-348B"
+    ]
+  },
+  "CASO-JOIA-WILL-135E": {
+    "id": "CASO-JOIA-WILL-135E",
+    "cliente": "JOIA RARA",
+    "adversario": "WILLIAMS",
+    "polo": "passivo",
+    "ano_inicio": "2026",
+    "ano_fim": "2026",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2026-JOIA-6F57"
+    ]
+  },
+  "CASO-JOSE-IMPE-8E0D": {
+    "id": "CASO-JOSE-IMPE-8E0D",
+    "cliente": "JOSETE",
+    "adversario": "IMPENHORABILIDADE",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-JOSE-8E0D"
+    ]
+  },
+  "CASO-JOSE-JONA-79B0": {
+    "id": "CASO-JOSE-JONA-79B0",
+    "cliente": "JOSETE",
+    "adversario": "JONAS",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 4,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-JOSE-D49A",
+      "2025-JOSE-D49A-1",
+      "2025-JOSE-D49A-2",
+      "2025-JOSE-D49A-3"
+    ]
+  },
+  "CASO-JOSC-BB-1498": {
+    "id": "CASO-JOSC-BB-1498",
+    "cliente": "JOSÉ CARLOS ANTUNES",
+    "adversario": "BB",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-JOSC-F47E"
+    ]
+  },
+  "CASO-JOSC-CESA-297C": {
+    "id": "CASO-JOSC-CESA-297C",
+    "cliente": "JOSÉ CARLOS ANTUNES",
+    "adversario": "CESAR",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-JOSC-420C"
+    ]
+  },
+  "CASO-JOSC-CESA-28B0": {
+    "id": "CASO-JOSC-CESA-28B0",
+    "cliente": "JOSÉ CARLOS ANTUNES",
+    "adversario": "CESAR - GEMINI",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-JOSC-96C4"
+    ]
+  },
+  "CASO-JOSC-JOSC-30ED": {
+    "id": "CASO-JOSC-JOSC-30ED",
+    "cliente": "JOSÉ CARLOS ANTUNES",
+    "adversario": "JOSÉ CARLOS E FERNANDA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-JOSC-E362"
+    ]
+  },
+  "CASO-JSCO-BOTA-8EC8": {
+    "id": "CASO-JSCO-BOTA-8EC8",
+    "cliente": "JS COMERCIO",
+    "adversario": "BOTA NO PRATO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 2,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-JSCO-D0E4",
+      "2025-JSCO-D0E4-1"
+    ]
+  },
+  "CASO-JSCO-VVB-C14C": {
+    "id": "CASO-JSCO-VVB-C14C",
+    "cliente": "JS COMERCIO",
+    "adversario": "VVB",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-JSCO-BDAB"
+    ]
+  },
+  "CASO-JULI-BRAD-B9D6": {
+    "id": "CASO-JULI-BRAD-B9D6",
+    "cliente": "JULIO CESAR VIEIRA",
+    "adversario": "BRADESCO",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-JULI-898C"
+    ]
+  },
+  "CASO-KTI-KTIA-22D0": {
+    "id": "CASO-KTI-KTIA-22D0",
+    "cliente": "KTI",
+    "adversario": "KTI - AGR",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-KTI-22D0"
+    ]
+  },
+  "CASO-KTI-KTIS-E66E": {
+    "id": "CASO-KTI-KTIS-E66E",
+    "cliente": "KTI",
+    "adversario": "KTI - SOLVAX",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-KTI-E66E"
+    ]
+  },
+  "CASO-KTI-KTIS-19A8": {
+    "id": "CASO-KTI-KTIS-19A8",
+    "cliente": "KTI",
+    "adversario": "KTI - STERICYCLE",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-KTI-19A8"
+    ]
+  },
+  "CASO-KTI-SOLV-FDFF": {
+    "id": "CASO-KTI-SOLV-FDFF",
+    "cliente": "KTI",
+    "adversario": "SOLVAX",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-KTI-02D1"
+    ]
+  },
+  "CASO-LAAT-4420-B74F": {
+    "id": "CASO-LAAT-4420-B74F",
+    "cliente": "L A ATELIE",
+    "adversario": "44.2023.8.26.0100 - PETIÇÃO - ARQUIVAMENTO DO FEITO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-LAAT-B74F"
+    ]
+  },
+  "CASO-LAAT-8220-CB86": {
+    "id": "CASO-LAAT-8220-CB86",
+    "cliente": "L A ATELIE",
+    "adversario": "82.2023.8.26.0100 - PETIÇÃO - LIBERAÇÃO DAS CUSTAS",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-LAAT-CB86"
+    ]
+  },
+  "CASO-LAAT-ARQU-4424": {
+    "id": "CASO-LAAT-ARQU-4424",
+    "cliente": "L A ATELIE",
+    "adversario": "ARQUIVAMENTO DO FEITO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-LAAT-4424"
+    ]
+  },
+  "CASO-LATI-JUNT-1E70": {
+    "id": "CASO-LATI-JUNT-1E70",
+    "cliente": "LATICINIOS RODEIO",
+    "adversario": "JUNTADA DE SUBSTABELECIMENTO - COLORDECOR",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-LATI-1E70"
+    ]
+  },
+  "CASO-LATI-SIER-3E3A": {
+    "id": "CASO-LATI-SIER-3E3A",
+    "cliente": "LATICINIOS RODEIO",
+    "adversario": "SIERRA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-LATI-62F2"
+    ]
+  },
+  "CASO-LEON-HONO-8F41": {
+    "id": "CASO-LEON-HONO-8F41",
+    "cliente": "LEONARDO MACIEL",
+    "adversario": "HONORÁRIOS (ALUMINI)",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-LEON-8F41"
+    ]
+  },
+  "CASO-LOJA-EXEC-3F06": {
+    "id": "CASO-LOJA-EXEC-3F06",
+    "cliente": "LOJASCOUNTRY",
+    "adversario": "EXECUÇÃO NULA",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-LOJA-3F06"
+    ]
+  },
+  "CASO-LSA-DOMU-8F50": {
+    "id": "CASO-LSA-DOMU-8F50",
+    "cliente": "LSA",
+    "adversario": "DOMU",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-LSA-7003"
+    ]
+  },
+  "CASO-LSA-EDSO-2B0B": {
+    "id": "CASO-LSA-EDSO-2B0B",
+    "cliente": "LSA",
+    "adversario": "EDSON",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2026",
+    "total_pecas": 2,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-LSA-5296",
+      "2026-LSA-5296"
+    ]
+  },
+  "CASO-LSA-MICH-6311": {
+    "id": "CASO-LSA-MICH-6311",
+    "cliente": "LSA",
+    "adversario": "MICHELE",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2026",
+    "total_pecas": 5,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-LSA-3B6B",
+      "2025-LSA-3B6B-1",
+      "2025-LSA-3B6B-2",
+      "2025-LSA-3B6B-3",
+      "2026-LSA-3B6B"
+    ]
+  },
+  "CASO-LSA-SILV-AA45": {
+    "id": "CASO-LSA-SILV-AA45",
+    "cliente": "LSA",
+    "adversario": "SILVESTRE",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-LSA-8B8A"
+    ]
+  },
+  "CASO-LUCA-YAYU-5E95": {
+    "id": "CASO-LUCA-YAYU-5E95",
+    "cliente": "LUCAS SHI",
+    "adversario": "YAYU SHI",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-LUCA-494C"
+    ]
+  },
+  "CASO-LUCI-COMP-E980": {
+    "id": "CASO-LUCI-COMP-E980",
+    "cliente": "LUCIVANIA CORDEIRO",
+    "adversario": "COMPROVANTE DE REALIZAÇÃO DAS OBRAS - PREFEITURA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-LUCI-7E49"
+    ]
+  },
+  "CASO-LUCI-LUCI-F4D5": {
+    "id": "CASO-LUCI-LUCI-F4D5",
+    "cliente": "LUCIVANIA CORDEIRO",
+    "adversario": "LUCIVÂNIA",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-LUCI-F4D5"
+    ]
+  },
+  "CASO-LUIZ-CEF-322D": {
+    "id": "CASO-LUIZ-CEF-322D",
+    "cliente": "LUIZ EDUARDO AGUIAR",
+    "adversario": "CEF",
+    "polo": "passivo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 2,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-LUIZ-6D86",
+      "2025-LUIZ-6D86-1"
+    ]
+  },
+  "CASO-LUIZ-FRAU-D704": {
+    "id": "CASO-LUIZ-FRAU-D704",
+    "cliente": "LUIZ EDUARDO AGUIAR",
+    "adversario": "FRAUDE COMETIDA POR TERCEIRO",
+    "polo": "passivo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-LUIZ-D704"
+    ]
+  },
+  "CASO-LUMA-ITAU-E0EA": {
+    "id": "CASO-LUMA-ITAU-E0EA",
+    "cliente": "LUMAMI",
+    "adversario": "ITAU",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-LUMA-9CF1"
+    ]
+  },
+  "CASO-MACI-MACI-362F": {
+    "id": "CASO-MACI-MACI-362F",
+    "cliente": "MACIEL PINHEIRO",
+    "adversario": "MACIEL PINHERO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-MACI-4D0D"
+    ]
+  },
+  "CASO-MACI-MAUR-9745": {
+    "id": "CASO-MACI-MAUR-9745",
+    "cliente": "MACIO",
+    "adversario": "MAURO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-MACI-5AA9"
+    ]
+  },
+  "CASO-MACI-REAB-D07A": {
+    "id": "CASO-MACI-REAB-D07A",
+    "cliente": "MACIO",
+    "adversario": "REABERTURA DA INSTRUÇÃO PROBATÓRIA",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-MACI-D07A"
+    ]
+  },
+  "CASO-MAIS-DNIT-2E0D": {
+    "id": "CASO-MAIS-DNIT-2E0D",
+    "cliente": "MAIS VIDA",
+    "adversario": "DNIT",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2026",
+    "total_pecas": 4,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-MAIS-E829",
+      "2026-MAIS-2E72",
+      "2026-MAIS-B17D",
+      "2026-MAIS-B17D-1"
+    ]
+  },
+  "CASO-MAIS-PULS-BF35": {
+    "id": "CASO-MAIS-PULS-BF35",
+    "cliente": "MAIS VIDA",
+    "adversario": "PULSAR",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2026",
+    "total_pecas": 4,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-MAIS-063E",
+      "2025-MAIS-063E-1",
+      "2026-MAIS-063E",
+      "2026-MAIS-063E-1"
+    ]
+  },
+  "CASO-MAIS-ROSI-082A": {
+    "id": "CASO-MAIS-ROSI-082A",
+    "cliente": "MAIS VIDA",
+    "adversario": "ROSILENE",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2026",
+    "total_pecas": 6,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-MAIS-1B88",
+      "2025-MAIS-1B88-1",
+      "2026-MAIS-1B88",
+      "2026-MAIS-1B88-1",
+      "2026-MAIS-1B88-2",
+      "2026-MAIS-1B88-3"
+    ]
+  },
+  "CASO-MAIS-VALD-8EC8": {
+    "id": "CASO-MAIS-VALD-8EC8",
+    "cliente": "MAIS VIDA",
+    "adversario": "VALDIR",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-MAIS-FF9A"
+    ]
+  },
+  "CASO-MAIS-VIGI-73C5": {
+    "id": "CASO-MAIS-VIGI-73C5",
+    "cliente": "MAIS VIDA",
+    "adversario": "VIGILÂNCIA SANITÁRIA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-MAIS-0D0E"
+    ]
+  },
+  "CASO-MANI-BRAD-AA80": {
+    "id": "CASO-MANI-BRAD-AA80",
+    "cliente": "MANISA",
+    "adversario": "BRADESCO",
+    "polo": "ativo",
+    "ano_inicio": "2026",
+    "ano_fim": "2026",
+    "total_pecas": 2,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2026-MANI-FE5E",
+      "2026-MANI-FD32"
+    ]
+  },
+  "CASO-MARI-ELAI-A409": {
+    "id": "CASO-MARI-ELAI-A409",
+    "cliente": "MARINHO & SOARES",
+    "adversario": "ELAINE",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-MARI-3613"
+    ]
+  },
+  "CASO-MATH-LATA-90EA": {
+    "id": "CASO-MATH-LATA-90EA",
+    "cliente": "MATHEUS VIEIRA",
+    "adversario": "LATAM E BRITISH",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 4,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-MATH-BD97",
+      "2025-MATH-BD97-1",
+      "2025-MATH-BD97-2",
+      "2025-MATH-BD97-3"
+    ]
+  },
+  "CASO-MCM-5920-0E09": {
+    "id": "CASO-MCM-5920-0E09",
+    "cliente": "MCM",
+    "adversario": "59.2019 - MCM",
+    "polo": "ativo",
+    "ano_inicio": "2026",
+    "ano_fim": "2026",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2026-MCM-0E09"
+    ]
+  },
+  "CASO-MCM-JFNE-F8BE": {
+    "id": "CASO-MCM-JFNE-F8BE",
+    "cliente": "MCM",
+    "adversario": "JFN ENGENHARIA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-MCM-5A3D"
+    ]
+  },
+  "CASO-MCM-KROP-7F44": {
+    "id": "CASO-MCM-KROP-7F44",
+    "cliente": "MCM",
+    "adversario": "KROPNEUS",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 4,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-MCM-245E",
+      "2025-MCM-245E-1",
+      "2025-MCM-245E-2",
+      "2025-MCM-5393"
+    ]
+  },
+  "CASO-MCM-NTEE-1C7A": {
+    "id": "CASO-MCM-NTEE-1C7A",
+    "cliente": "MCM",
+    "adversario": "NT E EUROCAMP",
+    "polo": "ativo",
+    "ano_inicio": "2026",
+    "ano_fim": "2026",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2026-MCM-4AB9"
+    ]
+  },
+  "CASO-MCM-OA-DF64": {
+    "id": "CASO-MCM-OA-DF64",
+    "cliente": "MCM",
+    "adversario": "OA",
+    "polo": "ativo",
+    "ano_inicio": "2026",
+    "ano_fim": "2026",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2026-MCM-368A"
+    ]
+  },
+  "CASO-MCM-VOTO-C3FB": {
+    "id": "CASO-MCM-VOTO-C3FB",
+    "cliente": "MCM",
+    "adversario": "VOTORANTIM",
+    "polo": "ativo",
+    "ano_inicio": "2026",
+    "ano_fim": "2026",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2026-MCM-ECD7"
+    ]
+  },
+  "CASO-MECA-GRAT-9D3D": {
+    "id": "CASO-MECA-GRAT-9D3D",
+    "cliente": "MECANICA AVELAR",
+    "adversario": "GRATUIDADE DE JUSTIÇA - MECANICA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-MECA-46B6"
+    ]
+  },
+  "CASO-MECA-REPR-A4C4": {
+    "id": "CASO-MECA-REPR-A4C4",
+    "cliente": "MECANICA AVELAR",
+    "adversario": "REPREMIUM",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 2,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-MECA-6FB5",
+      "2025-MECA-6FB5-1"
+    ]
+  },
+  "CASO-MECA-REPR-1C46": {
+    "id": "CASO-MECA-REPR-1C46",
+    "cliente": "MECANICA AVELAR",
+    "adversario": "REPREMIUM E RETIFICA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-MECA-5077"
+    ]
+  },
+  "CASO-MODE-AAPP-BC66": {
+    "id": "CASO-MODE-AAPP-BC66",
+    "cliente": "MODELOS",
+    "adversario": "AAPP - DESCONSIDERAÇÃO DA PERSONALIDADE JURIDICA",
+    "polo": "ativo",
+    "ano_inicio": "2023",
+    "ano_fim": "2023",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2023-MODE-BC66"
+    ]
+  },
+  "CASO-MODE-DIVI-4FCF": {
+    "id": "CASO-MODE-DIVI-4FCF",
+    "cliente": "MODELOS",
+    "adversario": "DIVINO FOGÃO - MOXUARA",
+    "polo": "ativo",
+    "ano_inicio": "2023",
+    "ano_fim": "2023",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2023-MODE-4FCF"
+    ]
+  },
+  "CASO-MODE-DPC-EEC8": {
+    "id": "CASO-MODE-DPC-EEC8",
+    "cliente": "MODELOS",
+    "adversario": "DPC",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-MODE-FE7E"
+    ]
+  },
+  "CASO-MODE-PARI-5503": {
+    "id": "CASO-MODE-PARI-5503",
+    "cliente": "MODELOS",
+    "adversario": "PARIS 6 BH",
+    "polo": "ativo",
+    "ano_inicio": "2023",
+    "ano_fim": "2023",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2023-MODE-5503"
+    ]
+  },
+  "CASO-MODE-PENH-2A8E": {
+    "id": "CASO-MODE-PENH-2A8E",
+    "cliente": "MODELOS",
+    "adversario": "PENHORA NO ROSTO DOS AUTOS",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-MODE-2A8E"
+    ]
+  },
+  "CASO-MOEN-AUSN-31D1": {
+    "id": "CASO-MOEN-AUSN-31D1",
+    "cliente": "MOENDO",
+    "adversario": "AUSÊNCIA DE ATO ILICITO - SARA",
+    "polo": "passivo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-MOEN-819C"
+    ]
+  },
+  "CASO-MOEN-MOEN-30E6": {
+    "id": "CASO-MOEN-MOEN-30E6",
+    "cliente": "MOENDO",
+    "adversario": "MOENDO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-MOEN-30E6"
+    ]
+  },
+  "CASO-MQSO-MQSO-2917": {
+    "id": "CASO-MQSO-MQSO-2917",
+    "cliente": "MQ SOLUÇÕES",
+    "adversario": "MQ SOLUÇÕES",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-MQSO-2917"
+    ]
+  },
+  "CASO-MQSO-SAGI-4A59": {
+    "id": "CASO-MQSO-SAGI-4A59",
+    "cliente": "MQ SOLUÇÕES",
+    "adversario": "SAGIORATTO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 2,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-MQSO-3CF1",
+      "2025-MQSO-3CF1-1"
+    ]
+  },
+  "CASO-NADI-ADIA-250D": {
+    "id": "CASO-NADI-ADIA-250D",
+    "cliente": "NADIA",
+    "adversario": "ADIAMENTO DA AUDIÊNCIA",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-NADI-250D"
+    ]
+  },
+  "CASO-NADI-ALEX-78B7": {
+    "id": "CASO-NADI-ALEX-78B7",
+    "cliente": "NADIA",
+    "adversario": "ALEXANDRE",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-NADI-D00E"
+    ]
+  },
+  "CASO-NADI-JUNT-8792": {
+    "id": "CASO-NADI-JUNT-8792",
+    "cliente": "NADIA",
+    "adversario": "JUNTADA DE SUBSTABELECIMENTO - NADIA",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-NADI-8792"
+    ]
+  },
+  "CASO-NILZ-HAPV-9B9B": {
+    "id": "CASO-NILZ-HAPV-9B9B",
+    "cliente": "NILZA",
+    "adversario": "HAPVIDA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-NILZ-D0CD"
+    ]
+  },
+  "CASO-NOVO-EXIG-1580": {
+    "id": "CASO-NOVO-EXIG-1580",
+    "cliente": "NOVOA",
+    "adversario": "EXIGIBILIDADE DA VERBA HONORÁRIA",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-NOVO-1580"
+    ]
+  },
+  "CASO-NUCL-EQUI-1285": {
+    "id": "CASO-NUCL-EQUI-1285",
+    "cliente": "NUCLEO",
+    "adversario": "EQUILIBRE",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-NUCL-7329"
+    ]
+  },
+  "CASO-OBM-BB-CA5C": {
+    "id": "CASO-OBM-BB-CA5C",
+    "cliente": "OBM",
+    "adversario": "BB",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-OBM-A80F"
+    ]
+  },
+  "CASO-PAUL-CAMI-B7BD": {
+    "id": "CASO-PAUL-CAMI-B7BD",
+    "cliente": "PAULO ROBERTO",
+    "adversario": "CAMINHA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2026",
+    "total_pecas": 2,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-PAUL-27D7",
+      "2026-PAUL-4ACE"
+    ]
+  },
+  "CASO-PAUL-AZUL-48BB": {
+    "id": "CASO-PAUL-AZUL-48BB",
+    "cliente": "PAULO SIQUEIRA LOBO",
+    "adversario": "AZUL",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2025",
+    "total_pecas": 2,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-PAUL-78EA",
+      "2025-PAUL-78EA"
+    ]
+  },
+  "CASO-PAUL-EXPE-69A5": {
+    "id": "CASO-PAUL-EXPE-69A5",
+    "cliente": "PAULO SIQUEIRA LOBO",
+    "adversario": "EXPEDIÇÃO DE ALVARÁ",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-PAUL-69A5"
+    ]
+  },
+  "CASO-PAUL-JUNT-29D3": {
+    "id": "CASO-PAUL-JUNT-29D3",
+    "cliente": "PAULO SIQUEIRA LOBO",
+    "adversario": "JUNTADA DE SUBSTABELECIMENTO - COLORDECOR",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-PAUL-29D3"
+    ]
+  },
+  "CASO-PAUL-JUNT-28B7": {
+    "id": "CASO-PAUL-JUNT-28B7",
+    "cliente": "PAULO SIQUEIRA LOBO",
+    "adversario": "JUNTADA DE SUBSTABELECIMENTO - TJRJ",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-PAUL-28B7"
+    ]
+  },
+  "CASO-PAUL-SEMP-1381": {
+    "id": "CASO-PAUL-SEMP-1381",
+    "cliente": "PAULO SIQUEIRA LOBO",
+    "adversario": "SEM PARAR",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2025",
+    "total_pecas": 2,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-PAUL-B24B",
+      "2025-PAUL-B24B"
+    ]
+  },
+  "CASO-PEDR-PEDR-F889": {
+    "id": "CASO-PEDR-PEDR-F889",
+    "cliente": "PEDRO MORATO",
+    "adversario": "PEDRO MORATO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-PEDR-F889"
+    ]
+  },
+  "CASO-PETI-AODE-53E3": {
+    "id": "CASO-PETI-AODE-53E3",
+    "cliente": "PETIÇÕES MODELO",
+    "adversario": "AÇÃO DE COBRANÇA - INORPEL",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-PETI-C316"
+    ]
+  },
+  "CASO-PETI-COST-8215": {
+    "id": "CASO-PETI-COST-8215",
+    "cliente": "PETIÇÕES MODELO",
+    "adversario": "COSTA NOVA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-PETI-596D"
+    ]
+  },
+  "CASO-PETI-EXIG-FE92": {
+    "id": "CASO-PETI-EXIG-FE92",
+    "cliente": "PETIÇÕES MODELO",
+    "adversario": "EXIGIBILIDADE DA VERBA HONORÁRIA",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-PETI-FE92"
+    ]
+  },
+  "CASO-PETI-ITAU-A5E8": {
+    "id": "CASO-PETI-ITAU-A5E8",
+    "cliente": "PETIÇÕES MODELO",
+    "adversario": "ITAU",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-PETI-B60E"
+    ]
+  },
+  "CASO-PETI-MATH-9852": {
+    "id": "CASO-PETI-MATH-9852",
+    "cliente": "PETIÇÕES MODELO",
+    "adversario": "MATHEUS",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-PETI-8881"
+    ]
+  },
+  "CASO-PETI-MQSO-9FED": {
+    "id": "CASO-PETI-MQSO-9FED",
+    "cliente": "PETIÇÕES MODELO",
+    "adversario": "MQ SOLUÇÕES",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-PETI-C94B"
+    ]
+  },
+  "CASO-PETI-RENA-4CA1": {
+    "id": "CASO-PETI-RENA-4CA1",
+    "cliente": "PETIÇÕES MODELO",
+    "adversario": "RENAUX",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-PETI-912A"
+    ]
+  },
+  "CASO-PETI-RODR-37D8": {
+    "id": "CASO-PETI-RODR-37D8",
+    "cliente": "PETIÇÕES MODELO",
+    "adversario": "RODRIGO COELHO",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-PETI-B7AA"
+    ]
+  },
+  "CASO-PETI-VALQ-14EC": {
+    "id": "CASO-PETI-VALQ-14EC",
+    "cliente": "PETIÇÕES MODELO",
+    "adversario": "VALQUIMICA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-PETI-14EC"
+    ]
+  },
+  "CASO-PETI-VINI-FE4A": {
+    "id": "CASO-PETI-VINI-FE4A",
+    "cliente": "PETIÇÕES MODELO",
+    "adversario": "VINI",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-PETI-A668"
+    ]
+  },
+  "CASO-PLAN-AMIL-F9EF": {
+    "id": "CASO-PLAN-AMIL-F9EF",
+    "cliente": "PLAN",
+    "adversario": "AMIL",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-PLAN-5B2F"
+    ]
+  },
+  "CASO-PLAN-CANT-21AC": {
+    "id": "CASO-PLAN-CANT-21AC",
+    "cliente": "PLAN",
+    "adversario": "CANTANHÊDE",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 6,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-PLAN-780A",
+      "2025-PLAN-780A-1",
+      "2025-PLAN-780A-2",
+      "2025-PLAN-780A-3",
+      "2025-PLAN-780A-4",
+      "2025-PLAN-780A-5"
+    ]
+  },
+  "CASO-PLAN-CATA-5613": {
+    "id": "CASO-PLAN-CATA-5613",
+    "cliente": "PLAN",
+    "adversario": "CATANHEDE",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2026",
+    "total_pecas": 5,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2026-PLAN-01B7",
+      "2026-PLAN-142D",
+      "2025-PLAN-01B7",
+      "2025-PLAN-01B7-1",
+      "2026-PLAN-01B7-1"
+    ]
+  },
+  "CASO-PLAN-IIDA-4C57": {
+    "id": "CASO-PLAN-IIDA-4C57",
+    "cliente": "PLAN",
+    "adversario": "IIDAC",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-PLAN-2A11"
+    ]
+  },
+  "CASO-PLAN-SOLU-7424": {
+    "id": "CASO-PLAN-SOLU-7424",
+    "cliente": "PLAN",
+    "adversario": "SÃO LUÍS",
+    "polo": "ativo",
+    "ano_inicio": "2026",
+    "ano_fim": "2026",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2026-PLAN-47AD"
+    ]
+  },
+  "CASO-PRL-ROSA-F9B2": {
+    "id": "CASO-PRL-ROSA-F9B2",
+    "cliente": "PRL",
+    "adversario": "ROSA GLACY",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-PRL-2801"
+    ]
+  },
+  "CASO-REIN-OMIS-6567": {
+    "id": "CASO-REIN-OMIS-6567",
+    "cliente": "REINALDO MARQUES VARELA",
+    "adversario": "OMISSÃO - REINALDO",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-REIN-6567"
+    ]
+  },
+  "CASO-RENA-AMBE-7D0D": {
+    "id": "CASO-RENA-AMBE-7D0D",
+    "cliente": "RENAUX",
+    "adversario": "AMBEV",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-RENA-A60B"
+    ]
+  },
+  "CASO-RENA-FAIR-565F": {
+    "id": "CASO-RENA-FAIR-565F",
+    "cliente": "RENAUX",
+    "adversario": "FAIR FAX",
+    "polo": "ativo",
+    "ano_inicio": "2026",
+    "ano_fim": "2026",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2026-RENA-2C76"
+    ]
+  },
+  "CASO-RENA-TICK-DE03": {
+    "id": "CASO-RENA-TICK-DE03",
+    "cliente": "RENAUX",
+    "adversario": "TICKET",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2026",
+    "total_pecas": 5,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-RENA-330A",
+      "2025-RENA-330A-1",
+      "2025-RENA-330A-2",
+      "2026-RENA-330A",
+      "2026-RENA-330A-1"
+    ]
+  },
+  "CASO-RENA-TICK-A565": {
+    "id": "CASO-RENA-TICK-A565",
+    "cliente": "RENAUX",
+    "adversario": "TICKET (2)",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-RENA-DB9D"
+    ]
+  },
+  "CASO-REPA-JHMM-D151": {
+    "id": "CASO-REPA-JHMM-D151",
+    "cliente": "REPASSE",
+    "adversario": "JHMM",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-REPA-9933"
+    ]
+  },
+  "CASO-REPA-MQSO-E128": {
+    "id": "CASO-REPA-MQSO-E128",
+    "cliente": "REPASSE",
+    "adversario": "MQ SOLUÇÕES",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-REPA-CF78"
+    ]
+  },
+  "CASO-RICA-SANT-F634": {
+    "id": "CASO-RICA-SANT-F634",
+    "cliente": "RICARDO CARVALHO",
+    "adversario": "SAN'TELMO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-RICA-EC07"
+    ]
+  },
+  "CASO-RODR-APPL-449F": {
+    "id": "CASO-RODR-APPL-449F",
+    "cliente": "RODRIGO COELHO",
+    "adversario": "APPLE",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-RODR-D849"
+    ]
+  },
+  "CASO-SPAU-SPAU-623F": {
+    "id": "CASO-SPAU-SPAU-623F",
+    "cliente": "S. PAULO DISTRIBUIÇÃO E LOGÍSTICA LTDA",
+    "adversario": "S.PAULO",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-SPAU-B774"
+    ]
+  },
+  "CASO-SOCI-1PAR-B1FA": {
+    "id": "CASO-SOCI-1PAR-B1FA",
+    "cliente": "SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA",
+    "adversario": "1ª PARCELA - MARIA VITORIA",
+    "polo": "ativo",
+    "ano_inicio": "2026",
+    "ano_fim": "2026",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2026-SOCI-D8BF"
+    ]
+  },
+  "CASO-SOCI-BEME-0CAA": {
+    "id": "CASO-SOCI-BEME-0CAA",
+    "cliente": "SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA",
+    "adversario": "BEMED",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-SOCI-406E"
+    ]
+  },
+  "CASO-SOCI-BRUN-3B3A": {
+    "id": "CASO-SOCI-BRUN-3B3A",
+    "cliente": "SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA",
+    "adversario": "BRUNO SANCHES",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 3,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-SOCI-DC34",
+      "2025-SOCI-DC34-1",
+      "2025-SOCI-DC34-2"
+    ]
+  },
+  "CASO-SOCI-CANE-768A": {
+    "id": "CASO-SOCI-CANE-768A",
+    "cliente": "SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA",
+    "adversario": "CANEM",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-SOCI-DFE8"
+    ]
+  },
+  "CASO-SOCI-CICL-9346": {
+    "id": "CASO-SOCI-CICL-9346",
+    "cliente": "SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA",
+    "adversario": "CICLAR",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2026",
+    "total_pecas": 22,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-SOCI-780E",
+      "2025-SOCI-780E-1",
+      "2025-SOCI-780E-2",
+      "2025-SOCI-780E-3",
+      "2026-SOCI-780E",
+      "2025-SOCI-9AC7",
+      "2026-SOCI-780E-1",
+      "2026-SOCI-780E-2",
+      "2025-SOCI-780E-4",
+      "2025-SOCI-780E-5",
+      "2025-SOCI-780E-6",
+      "2025-SOCI-780E-7",
+      "2025-SOCI-780E-8",
+      "2025-SOCI-780E-9",
+      "2026-SOCI-780E-3",
+      "2025-SOCI-9AC7-1",
+      "2026-SOCI-780E-4",
+      "2025-SOCI-9AC7-2",
+      "2025-SOCI-9AC7-3",
+      "2025-SOCI-9AC7-4",
+      "2025-SOCI-780E-10",
+      "2025-SOCI-9AC7-5"
+    ]
+  },
+  "CASO-SOCI-CICL-261E": {
+    "id": "CASO-SOCI-CICL-261E",
+    "cliente": "SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA",
+    "adversario": "CICLAR - PROCESSO N° 0035666",
+    "polo": "ativo",
+    "ano_inicio": "2026",
+    "ano_fim": "2026",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2026-SOCI-F602"
+    ]
+  },
+  "CASO-SOCI-EXEC-C381": {
+    "id": "CASO-SOCI-EXEC-C381",
+    "cliente": "SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA",
+    "adversario": "EXECUTIVIDADE - RDM COMERCIAL",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-SOCI-27B5"
+    ]
+  },
+  "CASO-SOCI-EXEC-C02E": {
+    "id": "CASO-SOCI-EXEC-C02E",
+    "cliente": "SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA",
+    "adversario": "EXECUTIVIDADE - ROBERTA M",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-SOCI-7FEB"
+    ]
+  },
+  "CASO-SOCI-FELI-3AFC": {
+    "id": "CASO-SOCI-FELI-3AFC",
+    "cliente": "SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA",
+    "adversario": "FELIPE",
+    "polo": "passivo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-SOCI-4231"
+    ]
+  },
+  "CASO-SOCI-FELI-E9D5": {
+    "id": "CASO-SOCI-FELI-E9D5",
+    "cliente": "SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA",
+    "adversario": "FELIPE LUIZ",
+    "polo": "ativo",
+    "ano_inicio": "2026",
+    "ano_fim": "2026",
+    "total_pecas": 2,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2026-SOCI-A5D6",
+      "2026-SOCI-A5D6-1"
+    ]
+  },
+  "CASO-SOCI-FLUI-39B8": {
+    "id": "CASO-SOCI-FLUI-39B8",
+    "cliente": "SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA",
+    "adversario": "FLUIDO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 2,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-SOCI-B0C5",
+      "2025-SOCI-B0C5-1"
+    ]
+  },
+  "CASO-SOCI-HBL-EF22": {
+    "id": "CASO-SOCI-HBL-EF22",
+    "cliente": "SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA",
+    "adversario": "HBL",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 2,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-SOCI-ADA0",
+      "2025-SOCI-ADA0-1"
+    ]
+  },
+  "CASO-SOCI-IMPU-87F0": {
+    "id": "CASO-SOCI-IMPU-87F0",
+    "cliente": "SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA",
+    "adversario": "IMPUGNAÇÃO AOS DOCS - MARIA VITORIA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-SOCI-F735"
+    ]
+  },
+  "CASO-SOCI-INFO-442A": {
+    "id": "CASO-SOCI-INFO-442A",
+    "cliente": "SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA",
+    "adversario": "INFOPARTNER",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 2,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-SOCI-EC5F",
+      "2025-SOCI-EC5F-1"
+    ]
+  },
+  "CASO-SOCI-JARC-C310": {
+    "id": "CASO-SOCI-JARC-C310",
+    "cliente": "SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA",
+    "adversario": "JARCICLEIDE",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-SOCI-F16B"
+    ]
+  },
+  "CASO-SOCI-JUNT-D3FA": {
+    "id": "CASO-SOCI-JUNT-D3FA",
+    "cliente": "SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA",
+    "adversario": "JUNTADA DE COMPROVANTES DE PAGAMENTO - MARIA VITORIA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-SOCI-89BE"
+    ]
+  },
+  "CASO-SOCI-JUNT-8317": {
+    "id": "CASO-SOCI-JUNT-8317",
+    "cliente": "SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA",
+    "adversario": "JUNTADA DE SUBSTABELECIMENTO - GEILSON",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-SOCI-E2D1"
+    ]
+  },
+  "CASO-SOCI-MARI-9FE5": {
+    "id": "CASO-SOCI-MARI-9FE5",
+    "cliente": "SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA",
+    "adversario": "MARIA VITORIA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2026",
+    "total_pecas": 20,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2026-SOCI-62D0",
+      "2026-SOCI-A2E5",
+      "2025-SOCI-6E93",
+      "2025-SOCI-0125",
+      "2025-SOCI-0125-1",
+      "2026-SOCI-0E5D",
+      "2025-SOCI-48E1",
+      "2026-SOCI-48E1",
+      "2025-SOCI-B41C",
+      "2025-SOCI-B41C-1",
+      "2025-SOCI-0F66",
+      "2025-SOCI-0F66-1",
+      "2026-SOCI-0F66",
+      "2026-SOCI-0F66-1",
+      "2025-SOCI-05D8",
+      "2026-SOCI-D708",
+      "2025-SOCI-5836",
+      "2025-SOCI-5836-1",
+      "2026-SOCI-5836",
+      "2025-SOCI-6056"
+    ]
+  },
+  "CASO-SOCI-MEDI-D50B": {
+    "id": "CASO-SOCI-MEDI-D50B",
+    "cliente": "SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA",
+    "adversario": "MEDICANDO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2026",
+    "total_pecas": 9,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-SOCI-5FC5",
+      "2025-SOCI-5FC5-1",
+      "2025-SOCI-4819",
+      "2025-SOCI-4819-1",
+      "2025-SOCI-4819-2",
+      "2025-SOCI-4819-3",
+      "2026-SOCI-5FC5",
+      "2026-SOCI-4819",
+      "2025-SOCI-5FC5-2"
+    ]
+  },
+  "CASO-SOCI-MSCJ-F24A": {
+    "id": "CASO-SOCI-MSCJ-F24A",
+    "cliente": "SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA",
+    "adversario": "MSCJ",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-SOCI-B33A"
+    ]
+  },
+  "CASO-SOCI-SAFE-7942": {
+    "id": "CASO-SOCI-SAFE-7942",
+    "cliente": "SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA",
+    "adversario": "SAFE",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-SOCI-0559"
+    ]
+  },
+  "CASO-SOCI-SOCI-8C51": {
+    "id": "CASO-SOCI-SOCI-8C51",
+    "cliente": "SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA",
+    "adversario": "SOCIEDADE HOSPITALAR BENEFICIENTE",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-SOCI-F804"
+    ]
+  },
+  "CASO-SOCI-STOC-81F4": {
+    "id": "CASO-SOCI-STOC-81F4",
+    "cliente": "SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA",
+    "adversario": "STOCK MED",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-SOCI-F8CB"
+    ]
+  },
+  "CASO-SOCI-SULA-BB34": {
+    "id": "CASO-SOCI-SULA-BB34",
+    "cliente": "SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA",
+    "adversario": "SUL AMERICA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-SOCI-4F69"
+    ]
+  },
+  "CASO-SOCI-TRAN-144C": {
+    "id": "CASO-SOCI-TRAN-144C",
+    "cliente": "SOCIEDADE HOSPITALAR BENEFICENTE MARIA VITÓRIA",
+    "adversario": "TRANSWINTER",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-SOCI-41E3"
+    ]
+  },
+  "CASO-SPOR-IMPL-3663": {
+    "id": "CASO-SPOR-IMPL-3663",
+    "cliente": "SPORT CLUB DO RECIFE",
+    "adversario": "IMPLY",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-SPOR-B87E"
+    ]
+  },
+  "CASO-STMO-IMPU-A981": {
+    "id": "CASO-STMO-IMPU-A981",
+    "cliente": "ST MODAS",
+    "adversario": "IMPUGNAÇÃO AO LAUDO PERICIAL",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-STMO-A981"
+    ]
+  },
+  "CASO-T4S-IMPU-75EB": {
+    "id": "CASO-T4S-IMPU-75EB",
+    "cliente": "T4S",
+    "adversario": "IMPUGNAÃ_Ã_O AO LAUDO PERICIAL - 1012035-39.2023.8.26.0011 - MELITHA",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-T4S-75EB"
+    ]
+  },
+  "CASO-T4S-IMPU-63F6": {
+    "id": "CASO-T4S-IMPU-63F6",
+    "cliente": "T4S",
+    "adversario": "IMPUGNAÇÃO AO LAUDO COMPLEMENTAR",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-T4S-63F6"
+    ]
+  },
+  "CASO-TARC-CONT-E893": {
+    "id": "CASO-TARC-CONT-E893",
+    "cliente": "TARCISIO CADAH",
+    "adversario": "CONTESTAÇÃO BANCO HONDA",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-TARC-E893"
+    ]
+  },
+  "CASO-TARC-JULG-889D": {
+    "id": "CASO-TARC-JULG-889D",
+    "cliente": "TARCISIO CADAH",
+    "adversario": "JULGAMENTO ANTECIPADO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-TARC-889D"
+    ]
+  },
+  "CASO-TOMA-JOOA-219F": {
+    "id": "CASO-TOMA-JOOA-219F",
+    "cliente": "TOMAZ",
+    "adversario": "JOÃO AURELIO",
+    "polo": "ativo",
+    "ano_inicio": "2026",
+    "ano_fim": "2026",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2026-TOMA-941A"
+    ]
+  },
+  "CASO-TUTT-EDFS-5D6D": {
+    "id": "CASO-TUTT-EDFS-5D6D",
+    "cliente": "TUTTO QUI",
+    "adversario": "EDF SMART PLAZA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 3,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-TUTT-B36B",
+      "2025-TUTT-B36B-1",
+      "2025-TUTT-5A70"
+    ]
+  },
+  "CASO-TUTT-EDFS-14E5": {
+    "id": "CASO-TUTT-EDFS-14E5",
+    "cliente": "TUTTO QUI",
+    "adversario": "EDF. SMART PLAZA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 3,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-TUTT-25BB",
+      "2025-TUTT-25BB-1",
+      "2025-TUTT-25BB-2"
+    ]
+  },
+  "CASO-TUTT-TUTT-E8F1": {
+    "id": "CASO-TUTT-TUTT-E8F1",
+    "cliente": "TUTTO QUI",
+    "adversario": "TUTTO QUI",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-TUTT-E8F1"
+    ]
+  },
+  "CASO-ULTR-GALV-C9C8": {
+    "id": "CASO-ULTR-GALV-C9C8",
+    "cliente": "ULTRA IMAGEM",
+    "adversario": "GALVÃO ENGENHARIA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-ULTR-E0BF"
+    ]
+  },
+  "CASO-UNIC-LEON-ECAD": {
+    "id": "CASO-UNIC-LEON-ECAD",
+    "cliente": "UNICORDIS",
+    "adversario": "LEONARDO",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-UNIC-B4A0"
+    ]
+  },
+  "CASO-VALQ-VALQ-B13A": {
+    "id": "CASO-VALQ-VALQ-B13A",
+    "cliente": "VALQUIMICA",
+    "adversario": "VALQUIMICA",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-VALQ-B13A"
+    ]
+  },
+  "CASO-VANG-CELP-7E80": {
+    "id": "CASO-VANG-CELP-7E80",
+    "cliente": "VANGOLD",
+    "adversario": "CELPE",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 3,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-VANG-6B67",
+      "2025-VANG-6B67-1",
+      "2025-VANG-6B67-2"
+    ]
+  },
+  "CASO-VINI-KTIA-A585": {
+    "id": "CASO-VINI-KTIA-A585",
+    "cliente": "VINI COMERCIO DE ALHOS LTDA",
+    "adversario": "KTI - AGR",
+    "polo": "ativo",
+    "ano_inicio": "2024",
+    "ano_fim": "2024",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2024-VINI-A585"
+    ]
+  },
+  "CASO-VINI-WEND-83FB": {
+    "id": "CASO-VINI-WEND-83FB",
+    "cliente": "VINI COMERCIO DE ALHOS LTDA",
+    "adversario": "WENDEL",
+    "polo": "ativo",
+    "ano_inicio": "2025",
+    "ano_fim": "2025",
+    "total_pecas": 1,
+    "status": "em andamento",
+    "pecas_ids": [
+      "2025-VINI-F9EB"
+    ]
+  }
+}
